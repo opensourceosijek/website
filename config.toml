@@ -7,8 +7,8 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [Params]
-    subtitle = "Centar za razvoj programa i sustava baziranih na principima otvorenog kôda" # Subtitle of your site
-    description = "Centar za razvoj programa i sustava baziranih na principima otvorenog kôda" # Description of your site
+    subtitle = "Centar za razvoj programa i sustava baziranih na principima otvorenog kôda"
+    description = "Centar za razvoj programa i sustava baziranih na principima otvorenog kôda"
     opengraph = true
     readmore = false
     leftsidebar = false
