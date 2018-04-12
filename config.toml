@@ -32,29 +32,29 @@ googleAnalytics = ""
     [[menu.main]]
         name = "Početna"
         url = "/"
-        identifier = "fa fa-home"
+        identifier = "post"
         weight = 1
 
     [[menu.main]]
         name = "O inicijativi"
         url = "/o-inicijativi/"
-        identifier = "fa fa-id-card-o"
+        identifier = "o-inicijativi"
         weight = 2
 
     [[menu.main]]
         name = "O nama"
         url = "/o-nama/"
-        identifier = "fa fa-address-book"
+        identifier = "o-nama"
         weight = 3
 
     [[menu.main]]
         name = "Kategorije"
         url = "/categories/"
-        identifier = "fa fa-sitemap"
+        identifier = "categories"
         weight = 4
 
     [[menu.main]]
         name = "Kontakt"
         url = "/kontakt/"
-        identifier = "fa fa-envelope-o"
+        identifier = "kontakt"
         weight = 5
