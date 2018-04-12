@@ -45,22 +45,16 @@ googleAnalytics = ""
         name = "O nama"
         url = "/o-nama/"
         identifier = "fa fa-address-book"
-        weight = 2
-
-    [[menu.main]]
-        name = "Blog"
-        url = "/post/"
-        identifier = "fa fa-newspaper-o"
         weight = 3
 
     [[menu.main]]
         name = "Kategorije"
         url = "/categories/"
         identifier = "fa fa-sitemap"
-        weight = 5
+        weight = 4
 
     [[menu.main]]
         name = "Kontakt"
         url = "/kontakt/"
         identifier = "fa fa-envelope-o"
-        weight = 6
+        weight = 5
