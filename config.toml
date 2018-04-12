@@ -1,4 +1,4 @@
-baseurl = "https://osos.netlify.com/"
+baseurl = "https://www.opensource-osijek.org/"
 title = "Open Source Osijek"
 languageCode = "hr"
 paginate = 10
