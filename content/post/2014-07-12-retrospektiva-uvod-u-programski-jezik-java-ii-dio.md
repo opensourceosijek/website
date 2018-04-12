@@ -1,0 +1,31 @@
+---
+title: 'Retrospektiva: Uvod u programski jezik Java (II. dio)'
+author: Hrvoje Varga
+type: post
+date: 2014-07-12T15:17:51+00:00
+url: /2014/07/12/retrospektiva-uvod-u-programski-jezik-java-ii-dio/
+featured_image: /wp-content/uploads/2014/06/java1.png
+categories:
+  - OS@OS
+  - Predavanja
+  - Programiranje
+tags:
+  - OOP
+  - Predavanja
+  - programiranje
+
+---
+Završio je drugi dio predavanja &#8220;Uvod u programski jezik Java&#8221;. Na ovom drugom dijelu, govorili smo Java tehnologiji. Kako izgleda konceptualni proces razvoja aplikacije. Osnovne stvari o Java prevoditelju. Pričali smo o Java virtualnoj mašini i što nam ona pruža i šta znači za razvoj aplikacije. Konceptualno smo objasnili Java platformu i od kojih se komponenti ona sastoji. Spominjali smo neke prednosti i mane same Java tehnologije pa i Java programskog jezika.
+
+Nadalje, izlistali smo sav potreban alat za razvoj Java aplikacija. Bilo je riječi i o tekstualnim editorima i integriranim razvojnim okruženjima; njihove neke prednosti i mane.
+
+Zadnji dio koji smo obradili je bio koncept klasa i objekata općenito i kako se to odražava na Java programski jezik. No ovdje smo samo zakoračili i završili predavanje tako da će sljedeće predavanje nastaviti od te točke. Tj. sljedeće predavanje će početi opisivati koncept klasa te ćemo onda pokazati kako se taj koncept klasa i objekata implementira u Java programskom jeziku.
+
+Pozdrav do sljedećeg predavanja.
+
+<p class="jetpack-slideshow-noscript robots-nocontent">
+  This slideshow requires JavaScript.
+</p>
+
+<div id="gallery-1700-4-slideshow" class="slideshow-window jetpack-slideshow slideshow-black" data-trans="fade" data-autostart="1" data-gallery="[{&quot;src&quot;:&quot;https:\/\/www.opensource-osijek.org\/wordpress\/wp-content\/uploads\/2014\/07\/10362772_801413709893354_1329218824_o.jpg&quot;,&quot;id&quot;:&quot;1705&quot;,&quot;title&quot;:&quot;10362772_801413709893354_1329218824_o&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/www.opensource-osijek.org\/wordpress\/wp-content\/uploads\/2014\/07\/10525098_801413509893374_780474428_n.jpg&quot;,&quot;id&quot;:&quot;1709&quot;,&quot;title&quot;:&quot;10525098_801413509893374_780474428_n&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/www.opensource-osijek.org\/wordpress\/wp-content\/uploads\/2014\/07\/10529509_801413543226704_1443860047_n.jpg&quot;,&quot;id&quot;:&quot;1713&quot;,&quot;title&quot;:&quot;10529509_801413543226704_1443860047_n&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/www.opensource-osijek.org\/wordpress\/wp-content\/uploads\/2014\/07\/10544909_801413556560036_1293114618_n.jpg&quot;,&quot;id&quot;:&quot;1715&quot;,&quot;title&quot;:&quot;10544909_801413556560036_1293114618_n&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/www.opensource-osijek.org\/wordpress\/wp-content\/uploads\/2014\/07\/10487625_801413646560027_1183124374_o.jpg&quot;,&quot;id&quot;:&quot;1706&quot;,&quot;title&quot;:&quot;10487625_801413646560027_1183124374_o&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/www.opensource-osijek.org\/wordpress\/wp-content\/uploads\/2014\/07\/1059398_801413533226705_618936096_n.jpg&quot;,&quot;id&quot;:&quot;1704&quot;,&quot;title&quot;:&quot;1059398_801413533226705_618936096_n&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/www.opensource-osijek.org\/wordpress\/wp-content\/uploads\/2014\/07\/10516959_801413589893366_1827370744_n.jpg&quot;,&quot;id&quot;:&quot;1707&quot;,&quot;title&quot;:&quot;10516959_801413589893366_1827370744_n&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/www.opensource-osijek.org\/wordpress\/wp-content\/uploads\/2014\/07\/10524881_801413706560021_867002453_n.jpg&quot;,&quot;id&quot;:&quot;1708&quot;,&quot;title&quot;:&quot;10524881_801413706560021_867002453_n&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/www.opensource-osijek.org\/wordpress\/wp-content\/uploads\/2014\/07\/10526937_801413523226706_2000103054_o.jpg&quot;,&quot;id&quot;:&quot;1710&quot;,&quot;title&quot;:&quot;10526937_801413523226706_2000103054_o&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/www.opensource-osijek.org\/wordpress\/wp-content\/uploads\/2014\/07\/10528764_801413626560029_1520686420_o.jpg&quot;,&quot;id&quot;:&quot;1711&quot;,&quot;title&quot;:&quot;10528764_801413626560029_1520686420_o&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/www.opensource-osijek.org\/wordpress\/wp-content\/uploads\/2014\/07\/10529474_801413569893368_652392626_n.jpg&quot;,&quot;id&quot;:&quot;1712&quot;,&quot;title&quot;:&quot;10529474_801413569893368_652392626_n&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/www.opensource-osijek.org\/wordpress\/wp-content\/uploads\/2014\/07\/10542891_801413563226702_685343621_o.jpg&quot;,&quot;id&quot;:&quot;1714&quot;,&quot;title&quot;:&quot;10542891_801413563226702_685343621_o&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/www.opensource-osijek.org\/wordpress\/wp-content\/uploads\/2014\/07\/10555016_801413383226720_49572324_n.jpg&quot;,&quot;id&quot;:&quot;1716&quot;,&quot;title&quot;:&quot;10555016_801413383226720_49572324_n&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;}]" itemscope itemtype="https://schema.org/ImageGallery">
+</div>

@@ -1,0 +1,66 @@
+baseurl = "https://osos.netlify.com/"
+title = "Open Source Osijek"
+languageCode = "hr"
+paginate = 10
+theme = "mainroad"
+disqusShortname = ""
+googleAnalytics = ""
+
+[Params]
+    subtitle = "Centar za razvoj programa i sustava baziranih na principima otvorenog kôda" # Subtitle of your site
+    description = "Centar za razvoj programa i sustava baziranih na principima otvorenog kôda" # Description of your site
+    opengraph = true
+    readmore = false
+    leftsidebar = false
+    authorbox = false
+    post_navigation = true
+    postSections = ["post"]
+
+[Params.widgets]
+    search = true
+    recent_articles = true
+    recent_articles_num = 5
+    categories = true
+    tags = true
+    tags_counter = false
+    social_facebook = "username"
+    social_twitter = "username"
+    social_linkedin = "username"
+    social_github = "username"
+
+[menu]
+    [[menu.main]]
+        name = "Početna"
+        url = "/"
+        identifier = "fa fa-home"
+        weight = 1
+
+    [[menu.main]]
+        name = "O inicijativi"
+        url = "/o-inicijativi/"
+        identifier = "fa fa-id-card-o"
+        weight = 2
+
+    [[menu.main]]
+        name = "O nama"
+        url = "/o-nama/"
+        identifier = "fa fa-address-book"
+        weight = 2
+
+    [[menu.main]]
+        name = "Blog"
+        url = "/post/"
+        identifier = "fa fa-newspaper-o"
+        weight = 3
+
+    [[menu.main]]
+        name = "Kategorije"
+        url = "/categories/"
+        identifier = "fa fa-sitemap"
+        weight = 5
+
+    [[menu.main]]
+        name = "Kontakt"
+        url = "/kontakt/"
+        identifier = "fa fa-envelope-o"
+        weight = 6
