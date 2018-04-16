@@ -6,6 +6,9 @@ theme = "mainroad"
 disqusShortname = ""
 googleAnalytics = ""
 
+[permalinks]
+    post = "/:year/:month/:day/:title/"
+
 [Params]
     subtitle = "Centar za razvoj programa i sustava baziranih na principima otvorenog kôda"
     description = "Centar za razvoj programa i sustava baziranih na principima otvorenog kôda"

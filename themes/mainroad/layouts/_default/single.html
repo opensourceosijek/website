@@ -24,7 +24,7 @@
 		<div class="post__content clearfix">
 			{{- if .Params.thumbnail }}
 			<figure class="post__thumbnail">
-				<img src="{{ .Params.thumbnail | relURL }}" alt="{{ .Title }}">
+				<img src="{{ .RelPermalink }}{{ .Params.thumbnail }}" alt="{{ .Title }}">
 			</figure>
 			{{- end }}
 			{{ .Content }}

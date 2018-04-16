@@ -2,7 +2,7 @@
 title: "Novi Web"
 author: Hrvoje Varga
 date: 2018-04-13T18:05:57+02:00
-thumbnail: "/post/novi-web/design.jpg"
+thumbnail: "design.jpg"
 type: post
 ---
 
