@@ -3,7 +3,7 @@ title: The Ultimate Open Source Development Environment
 author: Hrvoje Varga
 type: post
 date: 2017-02-19T07:11:29+00:00
-thumbnail: /post/the-ultimate-open-source-development-environment/vim.png
+thumbnail: "vim.png"
 categories:
   - Linux
   - Projekti
