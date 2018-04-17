@@ -1,0 +1,11 @@
+{
+    "name": "Hrvoje Varga",
+    "bio": "Hrvoje Varga is oriented on a software development using C and Go programming languages. He has experience in Java, C, C++, Go and a variety of frameworks and tools.",
+    "image": "/img/hrvoje-varga.jpg",
+    "social": {
+        "github": "https://www.github.com/hvarga",
+        "linkedin": "https://www.linkedin.com/in/hvarga/",
+        "website": "https://www.tuosde.org/",
+        "email": "hrvoje.varga@gmail.com"
+    }
+}

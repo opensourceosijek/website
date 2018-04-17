@@ -586,7 +586,7 @@ select {
 	vertical-align: middle;
 }
 
-.meta-categories__link, .post__meta-date, .list__meta-date,  .post__meta-lastmod, .list__meta-lastmod {
+.meta-categories__link, .post__meta-date, .list__meta-date,  .post__meta-lastmod, .list__meta-lastmod, .list__meta-author {
 	vertical-align: middle;
 }
 

@@ -15,7 +15,7 @@ googleAnalytics = ""
     opengraph = true
     readmore = false
     leftsidebar = false
-    authorbox = false
+    authorbox = true
     post_navigation = true
     postSections = ["post"]
 

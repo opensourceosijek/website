@@ -1,6 +1,6 @@
 ---
 title: "Novi Web"
-author: Hrvoje Varga
+author: hvarga
 date: 2018-04-13T18:05:57+02:00
 thumbnail: "design.jpg"
 type: post

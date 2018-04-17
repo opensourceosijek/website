@@ -1,6 +1,6 @@
 ---
 title: The Ultimate Open Source Development Environment
-author: Hrvoje Varga
+author: hvarga
 type: post
 date: 2017-02-19T07:11:29+00:00
 thumbnail: "vim.png"
