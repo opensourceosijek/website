@@ -1,22 +1,24 @@
 {{- if .Site.Params.authorbox }}
-<div class="authorbox clearfix">
 	{{ if isset .Params "author" }}
 		{{ $author := index .Site.Data.authors .Params.author }}
-		{{- with $author.image }}
-			<figure class="authorbox__avatar">
-				<img alt="{{ $author.name }} avatar" src="{{ $author.image | relURL }}" class="avatar" height="90" width="90">
-			</figure>
-		{{- end }}
-		{{- with $author.name }}
-			<div class="authorbox__header">
-				<span class="authorbox__name">About {{ . }}</span>
+		{{ if $author }}
+			<div class="authorbox clearfix">
+				{{- with $author.image }}
+					<figure class="authorbox__avatar">
+						<img alt="{{ $author.name }} avatar" src="{{ $author.image | relURL }}" class="avatar" height="90" width="90">
+					</figure>
+				{{- end }}
+				{{- with $author.name }}
+					<div class="authorbox__header">
+						<span class="authorbox__name">About {{ . }}</span>
+					</div>
+				{{- end }}
+				{{- with $author.bio }}
+					<div class="authorbox__description">
+						{{ . }}
+					</div>
+				{{- end }}
 			</div>
-		{{- end }}
-		{{- with $author.bio }}
-			<div class="authorbox__description">
-				{{ . }}
-			</div>
-		{{- end }}
+		{{ end }}
 	{{- end }}
-</div>
 {{- end }}
