@@ -1,0 +1,13 @@
+<div class="clearfix">
+    {{ $author := index .Site.Data.authors (.Get 0) }}
+    {{- with $author.image }}
+        <figure class="authorbox__avatar">
+            <img alt="{{ $author.name }} avatar" src="{{ $author.image | relURL }}" class="avatar" height="90" width="90">
+        </figure>
+    {{- end }}
+    {{- with $author.name }}
+        <div class="authorbox__header">
+            <span class="authorbox__name">{{ . }}</span>
+        </div>
+    {{- end }}
+</div>
