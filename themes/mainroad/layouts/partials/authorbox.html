@@ -5,7 +5,7 @@
 			<div class="authorbox clearfix">
 				{{- with $author.image }}
 					<figure class="authorbox__avatar">
-						<img alt="{{ $author.name }} avatar" src="{{ $author.image | relURL }}" class="avatar" height="90" width="90">
+						<img alt="{{ $author.name }} avatar" src="{{ . | relURL }}" class="avatar" height="90" width="90">
 					</figure>
 				{{- end }}
 				{{- with $author.name }}
