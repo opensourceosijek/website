@@ -11,6 +11,7 @@ date: 2013-10-30T18:04:21+00:00
 {{< member "hvarga" >}}
 {{< member "kpopovic" >}}
 {{< member "dcagalj" >}}
+{{< member "dbradaric" >}}
 {{< member "kbradaric" >}}
 {{< member "balikavazovic" >}}
 

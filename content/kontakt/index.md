@@ -5,43 +5,50 @@ type: page
 date: 2013-10-30T18:31:20+00:00
 
 ---
-###### Za sve informacije i pitanja možete nas kontaktirati:
+## Za sve informacije i pitanja možete nas kontaktirati:
 
-<a href="https://www.facebook.com/OpenSourceOsijek" target="_blank"><em>Facebook</em></a>
-   
-<a href="http://www.linkedin.com/groups/Open-Source-Osijek-OS-OS-5063441?trk=my_groups-b-grp-v" target="_blank"><em>LinkedIn</em></a>
+[Facebook](https://www.facebook.com/OpenSourceOsijek)
 
-**Hrvoje Horvat**
+[LinkedIn](http://www.linkedin.com/groups/Open-Source-Osijek-OS-OS-5063441?trk=my_groups-b-grp-v)
 
-<a href="http://www.facebook.com/hrvoje.horvat.3994" target="_blank">Facebook</a>
-  
-<a href="http://www.linkedin.com/pub/hrvoje-horvat/1/77b/484" target="_blank">LinkedIn</a>
-  
-<a href="mailto:hrvoje.horvat1@googlemail.com" target="_blank">E-mail</a>
+### Hrvoje Horvat
 
-**Hrvoje Varga**
+[Facebook](http://www.facebook.com/hrvoje.horvat.3994)
 
-<a href="http://hr.linkedin.com/in/hvarga" target="_blank">LinkedIn</a>
-  
-<a href="mailto:hrvoje.varga@gmail.com" target="_blank">E-mail</a>
-  
-<a href="skype:callhrvoje.varga?" target="_blank">Skype</a>
+[LinkedIn](http://www.linkedin.com/pub/hrvoje-horvat/1/77b/484)
 
-**Krešimir Popović**
+[E-mail](mailto:hrvoje.horvat1@googlemail.com)
 
-<a href="https://www.facebook.com/kresimir.popovic" target="_blank">Facebook</a>
-  
-[E-mail][1]
-  
-<a href="http://www.linkedin.com/in/kresimirpopovic" target="_blank">LinkedIn</a>
+### Hrvoje Varga
 
-**Dario Čagalj**
+[LinkedIn](http://hr.linkedin.com/in/hvarga)
 
-<a href="https://www.facebook.com/dario.cagalj.3" target="_blank">Facebook</a>
-  
-[E-mail][2]
-  
-<a href="http://hr.linkedin.com/pub/dario-čagalj/48/136/903" target="_blank">LinkedIn</a>
+[E-mail](mailto:hrvoje.varga@gmail.com)
 
- [1]: mailto:kresimir.popovic@gmail.com
- [2]: mailto:dcagalj1980@gmail.com
+[Skype](skype:hrvoje.varga?call)
+
+### Krešimir Popović
+
+[Facebook](https://www.facebook.com/kresimir.popovic)
+
+[E-mail](mailto:kresimir.popovic@gmail.com)
+
+[LinkedIn](http://www.linkedin.com/in/kresimirpopovic)
+
+### Dario Čagalj
+
+[Facebook](https://www.facebook.com/dario.cagalj.3)
+
+[E-mail](mailto:dcagalj1980@gmail.com2)
+
+[LinkedIn](http://hr.linkedin.com/pub/dario-čagalj/48/136/903)
+
+### Demis Bradarić
+
+[E-mail](mailto:demis.bradaric@gmail.com)
+
+### Kristijan Bradarić
+
+[E-mail](mailto:kristijan.bradaric@gmail.com)
+
+[Skype](skype:elbradone?call)
