@@ -1,6 +1,6 @@
 ---
 title: Installation Manual
-author: Hrvoje Varga
+author: hvarga
 type: page
 date: 2013-10-29T17:56:22+00:00
 private: true

@@ -1,6 +1,6 @@
 ---
 title: Najpoznatiji Opensource projekti
-author: Hrvoje Varga
+author: hvarga
 type: page
 date: 2013-11-01T14:56:03+00:00
 

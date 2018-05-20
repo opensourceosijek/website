@@ -1,6 +1,6 @@
 ---
 title: 'Brzinska radionica : Instalacija Big Blue Button-a'
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2013-11-05T16:04:55+00:00
 url: /2013/11/05/brzinska-radionica-instalacija-big-blue-button-a/

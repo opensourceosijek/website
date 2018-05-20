@@ -1,6 +1,6 @@
 ---
 title: 'Retrospektiva: Hardware Development'
-author: Hrvoje Varga
+author: hvarga
 type: post
 date: 2014-05-20T05:57:16+00:00
 url: /2014/05/20/retrospektiva-hardware-development/

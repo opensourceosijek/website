@@ -1,6 +1,6 @@
 ---
 title: Uvod u Linux knjiga
-author: Dario Čagalj
+author: dcagalj
 type: page
 date: 2014-02-25T12:47:21+00:00
 

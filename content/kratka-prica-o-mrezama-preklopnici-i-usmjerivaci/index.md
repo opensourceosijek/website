@@ -1,6 +1,6 @@
 ---
 title: Kratka priča o mrežama – preklopnici i usmjerivači
-author: Hrvoje Horvat
+author: hhorvat
 type: page
 date: 2017-06-27T11:11:10+00:00
 featured_image: /wp-content/uploads/2017/06/KratkaPričaOMrežama.jpg

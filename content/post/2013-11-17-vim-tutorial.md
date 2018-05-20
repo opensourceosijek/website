@@ -1,6 +1,6 @@
 ---
 title: VIM tutorial
-author: Hrvoje Varga
+author: hvarga
 type: post
 date: 2013-11-17T20:28:04+00:00
 url: /2013/11/17/vim-tutorial/

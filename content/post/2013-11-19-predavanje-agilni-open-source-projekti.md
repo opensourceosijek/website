@@ -1,6 +1,6 @@
 ---
 title: 'Predavanje : Agilni open source projekti'
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2013-11-19T13:06:29+00:00
 url: /2013/11/19/predavanje-agilni-open-source-projekti/

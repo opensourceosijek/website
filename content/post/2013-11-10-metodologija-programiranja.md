@@ -1,6 +1,6 @@
 ---
 title: Metodologija programiranja
-author: Hrvoje Varga
+author: hvarga
 type: post
 date: 2013-11-10T17:00:14+00:00
 url: /2013/11/10/metodologija-programiranja/

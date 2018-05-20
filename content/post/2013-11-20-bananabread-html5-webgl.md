@@ -1,6 +1,6 @@
 ---
 title: BananaBread (HTML5 + WebGL)
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2013-11-20T14:16:20+00:00
 url: /2013/11/20/bananabread-html5-webgl/

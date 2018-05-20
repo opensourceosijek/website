@@ -1,6 +1,6 @@
 ---
 title: 'Linux: što nam donosi systemd'
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2014-11-06T14:13:43+00:00
 url: /2014/11/06/linux-sto-nam-donosi-systemd/

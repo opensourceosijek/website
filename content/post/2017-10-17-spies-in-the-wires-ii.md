@@ -1,6 +1,6 @@
 ---
 title: Spies in The Wires II
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2017-10-17T08:19:22+00:00
 url: /2017/10/17/spies-in-the-wires-ii/

@@ -1,6 +1,6 @@
 ---
 title: Uvod u Linux, 5 dio (radionica)
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2014-11-04T15:39:53+00:00
 url: /2014/11/04/uvod-u-linux-5-dio-radionica/

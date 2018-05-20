@@ -1,6 +1,6 @@
 ---
 title: Uvod u Linux – radionica (11.dio)
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2016-02-29T14:23:45+00:00
 url: /2016/02/29/uvod-u-linux-radionica-11-dio/

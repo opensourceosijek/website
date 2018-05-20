@@ -1,6 +1,6 @@
 ---
 title: 'Retrospektiva : Uvod u Linux – radionica (9.dio)'
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2015-12-14T18:12:44+00:00
 url: /2015/12/14/retrospektiva-uvod-u-linux-radionica-9-dio/

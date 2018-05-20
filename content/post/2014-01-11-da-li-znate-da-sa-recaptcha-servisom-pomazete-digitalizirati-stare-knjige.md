@@ -1,6 +1,6 @@
 ---
 title: Da li znate da sa reCAPTCHA servisom pomažete digitalizirati stare knjige?
-author: Hrvoje Varga
+author: hvarga
 type: post
 date: 2014-01-11T08:37:43+00:00
 url: /2014/01/11/da-li-znate-da-sa-recaptcha-servisom-pomazete-digitalizirati-stare-knjige/

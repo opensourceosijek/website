@@ -1,6 +1,6 @@
 ---
 title: 'CodeCAMP: 3D modeliranje u Blenderu'
-author: Hrvoje Varga
+author: hvarga
 type: post
 date: 2015-08-24T16:43:27+00:00
 url: /2015/08/24/codecamp-3d-modeliranje-u-blenderu/

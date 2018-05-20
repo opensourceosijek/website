@@ -1,6 +1,6 @@
 ---
 title: Hrvoje Varga
-author: Dario Čagalj
+author: dcagalj
 type: page
 date: 2013-10-30T18:16:21+00:00
 

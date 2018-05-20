@@ -1,6 +1,6 @@
 ---
 title: Priručnik za softversko inženjerstvo
-author: Hrvoje Varga
+author: hvarga
 type: post
 date: 2014-07-15T14:00:09+00:00
 url: /2014/07/15/prirucnik-za-softversko-inzenjerstvo/

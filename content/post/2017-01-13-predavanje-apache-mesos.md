@@ -1,6 +1,6 @@
 ---
 title: 'Predavanje: Apache Mesos'
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2017-01-13T13:32:42+00:00
 url: /2017/01/13/predavanje-apache-mesos/

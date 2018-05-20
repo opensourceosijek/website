@@ -1,6 +1,6 @@
 ---
 title: Bootstrap – Web stranica za sve preglednike
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2014-02-12T09:54:52+00:00
 url: /2014/02/12/bootstrap-web-stranica-za-sve-preglednike/

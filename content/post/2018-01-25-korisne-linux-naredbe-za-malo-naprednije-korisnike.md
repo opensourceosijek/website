@@ -1,6 +1,6 @@
 ---
 title: Korisne Linux naredbe (za malo naprednije korisnike)
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2018-01-25T18:41:49+00:00
 private: true

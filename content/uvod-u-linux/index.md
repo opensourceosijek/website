@@ -1,6 +1,6 @@
 ---
 title: Uvod u Linux
-author: Hrvoje Horvat
+author: hhorvat
 type: page
 date: 2013-11-17T14:04:22+00:00
 

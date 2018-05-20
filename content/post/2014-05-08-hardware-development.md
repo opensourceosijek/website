@@ -1,6 +1,6 @@
 ---
 title: Hardware development
-author: Hrvoje Varga
+author: hvarga
 type: post
 date: 2014-05-08T06:00:43+00:00
 url: /2014/05/08/hardware-development/

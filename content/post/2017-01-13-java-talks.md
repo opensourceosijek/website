@@ -1,6 +1,6 @@
 ---
 title: Java Talks
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2017-01-13T13:51:25+00:00
 url: /2017/01/13/java-talks/

@@ -1,6 +1,6 @@
 ---
 title: 'CodeCAMP: Osnove mreža: Kako odabrati ”pravi” mrežni uređaj i u čemu su razlike?'
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2015-06-01T20:23:26+00:00
 url: /2015/06/01/codecamp-osnove-mreza-kako-odabrati-pravi-mrezni-uredaj-i-u-cemu-su-razlike/

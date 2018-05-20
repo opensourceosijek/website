@@ -1,6 +1,6 @@
 ---
 title: Heroes of Might and Magic 3 alternative
-author: Hrvoje Horvat
+author: hhorvat
 type: page
 date: 2013-11-20T09:57:35+00:00
 

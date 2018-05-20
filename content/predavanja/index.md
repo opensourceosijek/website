@@ -1,6 +1,6 @@
 ---
 title: Predavanja i radionice
-author: Dario Čagalj
+author: dcagalj
 type: page
 date: 2013-10-31T18:52:55+00:00
 

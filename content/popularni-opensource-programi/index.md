@@ -1,6 +1,6 @@
 ---
 title: Popularni OpenSource Programi
-author: Dario Čagalj
+author: dcagalj
 type: page
 date: 2013-11-01T09:00:40+00:00
 

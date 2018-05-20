@@ -1,6 +1,6 @@
 ---
 title: Priča jednog Open Source programera
-author: Hrvoje Varga
+author: hvarga
 type: post
 date: 2013-11-01T22:10:23+00:00
 url: /2013/11/01/prica-jednog-open-source-programera/

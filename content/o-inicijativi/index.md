@@ -1,6 +1,6 @@
 ---
 title: O inicijativi
-author: Dario Čagalj
+author: dcagalj
 type: page
 date: 2013-10-30T17:30:43+00:00
 

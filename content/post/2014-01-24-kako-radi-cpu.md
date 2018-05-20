@@ -1,6 +1,6 @@
 ---
 title: Kako radi CPU
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2014-01-24T10:41:30+00:00
 url: /2014/01/24/kako-radi-cpu/

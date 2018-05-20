@@ -1,6 +1,6 @@
 ---
 title: The Expert
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2014-04-04T13:39:11+00:00
 url: /2014/04/04/the-expert/

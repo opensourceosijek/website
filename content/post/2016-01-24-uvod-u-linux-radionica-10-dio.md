@@ -1,6 +1,6 @@
 ---
 title: Uvod u Linux – radionica (10.dio)
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2016-01-24T17:50:33+00:00
 url: /2016/01/24/uvod-u-linux-radionica-10-dio/

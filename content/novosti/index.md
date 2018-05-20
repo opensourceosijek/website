@@ -1,6 +1,6 @@
 ---
 title: Novosti
-author: Dario Čagalj
+author: dcagalj
 type: page
 date: 2013-10-29T15:29:13+00:00
 

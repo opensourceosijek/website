@@ -1,6 +1,6 @@
 ---
 title: Zašto slobodan softver?
-author: Hrvoje Varga
+author: hvarga
 type: post
 date: 2013-11-01T22:02:18+00:00
 url: /2013/11/01/zasto-slobodan-softver/

@@ -1,6 +1,6 @@
 ---
 title: 'Uvod u linux VII : Osnove računalnih mreža I dio'
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2015-01-13T20:32:54+00:00
 url: /2015/01/13/uvod-u-linux-vii-osnove-racunalnih-mreza-i-dio/

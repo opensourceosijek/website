@@ -1,6 +1,6 @@
 ---
 title: Razvoj Load Balancera
-author: Hrvoje Horvat
+author: hhorvat
 type: page
 date: 2013-11-18T09:39:55+00:00
 

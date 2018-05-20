@@ -1,6 +1,6 @@
 ---
 title: 'Predavanje o računalnoj sigurnosti (I): “Countdown to zero”'
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2015-08-30T19:00:50+00:00
 url: /2015/08/30/predavanje-o-racunalnoj-sigurnosti-i-countdown-to-zero/

@@ -1,6 +1,6 @@
 ---
 title: 'Prešli smo na novi TLS certifikat … i malo o TLS  (i https)'
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2017-05-10T11:03:55+00:00
 url: /2017/05/10/presli-smo-na-novi-tls-certifikat-i-malo-o-tls-i-https/

@@ -1,6 +1,6 @@
 ---
 title: 'Switching i routing: jučer, danas, sutra'
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2016-02-16T19:42:11+00:00
 url: /2016/02/16/switching-i-routing-jucer-danas-sutra/

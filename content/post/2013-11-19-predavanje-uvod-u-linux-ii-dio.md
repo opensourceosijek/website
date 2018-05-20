@@ -1,6 +1,6 @@
 ---
 title: 'Predavanje: Uvod u Linux II dio'
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2013-11-19T13:08:39+00:00
 url: /2013/11/19/predavanje-uvod-u-linux-ii-dio/

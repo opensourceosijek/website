@@ -1,6 +1,6 @@
 ---
 title: 'Retrospektiva : Uvod u Linux, 6 dio (radionica)'
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2015-01-13T20:23:34+00:00
 url: /2015/01/13/retrospektiva-uvod-u-linux-6-dio-radionica/

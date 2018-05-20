@@ -1,6 +1,6 @@
 ---
 title: Multi User Documentation Tool
-author: Hrvoje Horvat
+author: hhorvat
 type: page
 date: 2013-11-20T10:27:59+00:00
 

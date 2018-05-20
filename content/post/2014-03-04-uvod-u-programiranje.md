@@ -1,6 +1,6 @@
 ---
 title: Uvod u programiranje
-author: Hrvoje Varga
+author: hvarga
 type: post
 date: 2014-03-04T18:35:59+00:00
 url: /2014/03/04/uvod-u-programiranje/

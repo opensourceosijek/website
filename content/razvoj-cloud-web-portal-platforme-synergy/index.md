@@ -1,6 +1,6 @@
 ---
 title: Synergy Platform
-author: Hrvoje Horvat
+author: hhorvat
 type: page
 date: 2013-11-05T15:31:50+00:00
 

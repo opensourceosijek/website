@@ -1,6 +1,6 @@
 ---
 title: 'Koliko poznajemo operacijski sustav : Memory Management'
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2015-10-10T20:11:07+00:00
 url: /2015/10/10/koliko-poznajemo-operacijski-sustav-memory-management/

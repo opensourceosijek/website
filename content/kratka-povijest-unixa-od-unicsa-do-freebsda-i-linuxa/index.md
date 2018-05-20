@@ -1,6 +1,6 @@
 ---
 title: Kratka povijest UNIXa – Od UNICSa do FreeBSDa i Linuxa
-author: Hrvoje Horvat
+author: hhorvat
 type: page
 date: 2017-02-14T13:34:27+00:00
 featured_image: /wp-content/uploads/2017/02/UNIX-osnovne-grane-50p.jpg

@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-author: Dario Čagalj
+author: dcagalj
 type: page
 date: 2013-10-30T18:31:20+00:00
 

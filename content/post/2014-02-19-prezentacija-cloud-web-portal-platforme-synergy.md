@@ -1,6 +1,6 @@
 ---
 title: Prezentacija Cloud web portal platforme Synergy
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2014-02-19T13:18:53+00:00
 url: /2014/02/19/prezentacija-cloud-web-portal-platforme-synergy/

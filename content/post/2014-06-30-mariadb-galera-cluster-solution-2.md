@@ -1,6 +1,6 @@
 ---
 title: MariaDB Galera cluster solution
-author: Alen Milinčević
+author: amilincevic
 type: post
 date: 2014-06-30T11:00:17+00:00
 url: /2014/06/30/mariadb-galera-cluster-solution-2/

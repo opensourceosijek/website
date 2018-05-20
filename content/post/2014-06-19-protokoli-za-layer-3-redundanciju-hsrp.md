@@ -1,6 +1,6 @@
 ---
 title: 'Protokoli za “Layer 3” redundanciju : HSRP'
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2014-06-19T20:13:31+00:00
 url: /2014/06/19/protokoli-za-layer-3-redundanciju-hsrp/

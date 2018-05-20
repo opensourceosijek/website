@@ -1,6 +1,6 @@
 ---
 title: Krećemo s tehničkim tekstovima/člancima
-author: Hrvoje Horvat
+author: hhorvat
 type: post
 date: 2014-05-06T07:42:24+00:00
 url: /2014/05/06/krecemo-s-tehnickim-tekstovimaclancima/

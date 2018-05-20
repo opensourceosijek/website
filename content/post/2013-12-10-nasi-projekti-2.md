@@ -1,6 +1,6 @@
 ---
 title: Forumi
-author: Željko Trogrlić
+author: ztrogrlic
 type: page
 date: 2013-11-27T14:33:48+00:00
 
