@@ -5,6 +5,7 @@ paginate = 10
 theme = "mainroad"
 disqusShortname = ""
 googleAnalytics = ""
+relativeURLs = true
 
 [permalinks]
     post = "/:year/:month/:day/:title/"

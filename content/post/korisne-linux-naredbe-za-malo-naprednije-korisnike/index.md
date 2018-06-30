@@ -4,8 +4,7 @@ author: hhorvat
 type: post
 date: 2018-01-25T18:41:49+00:00
 private: true
-url: /2018/01/25/korisne-linux-naredbe-za-malo-naprednije-korisnike/
-featured_image: /wp-content/uploads/2014/02/linux_img.png
+thumbnail: "linux.png"
 categories:
   - Članci
   - Knjige
@@ -15,9 +14,9 @@ categories:
   - Zanimljivosti
 
 ---
-U ovom članku, proći ćemo neke od korisnih Linux naredbi, za malo naprednije korisnike. Samo ćemo kratko nabrojiti korisne naredbe u Linuxu, za malo naprednije korisnike, i to uz samo nekoliko pripadajućih primjera. Na kraju ćete dobiti i PDF dokument, sa svim navedenim naredbama i primjerima upotrebe, koji si možete odštampati (i držati negdje u blizini) 🙂 .
+U ovom članku, proći ćemo neke od korisnih Linux naredbi, za malo naprednije korisnike. Samo ćemo kratko nabrojiti korisne naredbe u Linuxu, za malo naprednije korisnike, i to uz samo nekoliko pripadajućih primjera. Na kraju ćete dobiti i PDF dokument, sa svim navedenim naredbama i primjerima upotrebe, koji si možete odštampati (i držati negdje u blizini).
 
-&nbsp;
+<!--more-->
 
 Ako vas možda područja koja ćemo obraditi, zanimaju detaljnije ili se pak želite upoznati s osnovama,  sve to možete pronaći u mojoj online knjizi: [**Uvod u Linux i Linux napredno**][1], objavljenoj unutar inicijative [_**Open Source Osijek**_][2]. a koju možete slobodno koristiti za osobnu uporabu.
 
@@ -1448,20 +1447,6 @@ NUMA node0 CPU(s): 0,1</pre>
 
 Dakle vidimo sve podatke o CPUu, od takta, _L1 i L2 cache_ memorije i točnog modela.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
  [1]: https://www.opensource-osijek.org/dokuwiki/wiki:knjige:uvod_u_linux
  [2]: https://www.opensource-osijek.org
  [3]: https://www.opensource-osijek.org/dokuwiki/wiki:knjige:uvod_u_linux#interrupt_moderation
@@ -1472,3 +1457,5 @@ Dakle vidimo sve podatke o CPUu, od takta, _L1 i L2 cache_ memorije i točnog mo
  [8]: https://www.opensource-osijek.org/dokuwiki/wiki:knjige:uvod_u_linux#pracenje_performansi_i_o_sustava
  [9]: https://www.opensource-osijek.org/dokuwiki/wiki:knjige:uvod_u_linux#naprednovm_-_slabs
  [10]: https://www.opensource-osijek.org/dokuwiki/wiki:knjige:uvod_u_linux#naprednodiskovni_i_o_podsustav
+
+[Korisne Linux naredbe](korisne-linux-naredbe.pdf)
