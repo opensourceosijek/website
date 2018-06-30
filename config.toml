@@ -58,7 +58,13 @@ relativeURLs = true
         weight = 4
 
     [[menu.main]]
+        name = "Knjige"
+        url = "/knjige/"
+        identifier = "knjige"
+        weight = 5
+
+    [[menu.main]]
         name = "Kontakt"
         url = "/kontakt/"
         identifier = "kontakt"
-        weight = 5
+        weight = 6
