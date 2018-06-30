@@ -3,4 +3,4 @@
     command = "make"
 
 [context.production.environment]
-    HUGO_VERSION = "0.36"
+    HUGO_VERSION = "0.42"
