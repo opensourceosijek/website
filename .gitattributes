@@ -1,1 +1,4 @@
 content/post/korisne-linux-naredbe-za-malo-naprednije-korisnike/korisne-linux-naredbe.pdf filter=lfs diff=lfs merge=lfs -text
+content/knjige/kratka-povijest-UNIXa-od-UNICSa-do-FreeBSDa-i-linuxa.pdf filter=lfs diff=lfs merge=lfs -text
+content/knjige/kratka-prica-o-NAS-i-SAN-sustavima-(i-malo-vise).pdf filter=lfs diff=lfs merge=lfs -text
+content/knjige/kratka-prica-o-mrezama-preklopnici-i-usmjerivaci.pdf filter=lfs diff=lfs merge=lfs -text
