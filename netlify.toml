@@ -4,3 +4,4 @@
 
 [context.production.environment]
     HUGO_VERSION = "0.42"
+    GIT_LFS_ENABLED = "true"
