@@ -7,3 +7,6 @@ build:
 
 clean:
 	rm -rf public
+
+server:
+	hugo server --disableFastRender
