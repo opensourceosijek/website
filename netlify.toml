@@ -1,7 +1,7 @@
 [build]
     publish = "public"
     command = "make"
+    GIT_LFS_ENABLED = "true"
 
 [context.production.environment]
     HUGO_VERSION = "0.42"
-    GIT_LFS_ENABLED = "true"
