@@ -1149,7 +1149,10 @@ textarea {
 	}
 
 	.list__thumbnail {
-		max-width: 80px;
+		width: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
 	}
 
 	.list__title {
@@ -1164,6 +1167,6 @@ textarea {
 	}
 
 	.list__excerpt {
-		display: none;
+		width: 100%;
 	}
 }
