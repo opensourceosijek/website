@@ -19,6 +19,7 @@ relativeURLs = true
     authorbox = true
     post_navigation = true
     postSections = ["post"]
+    dateformat = "02.01.2006 | 15:04"
 
 [Params.widgets]
     search = true
