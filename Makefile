@@ -1,12 +1,13 @@
-.PHONY: all build clean
+.PHONY: all build clean server
 
 all: clean build
-
-build:
-	hugo
 
 clean:
 	rm -rf public
 
-server:
-	hugo server --disableFastRender
+build:
+	git log -1 --format='{{ $$.Scratch.Set "commit" "%H" }}' > themes/mainroad/layouts/partials/commit.html
+	hugo
+
+server: all
+	hugo server
