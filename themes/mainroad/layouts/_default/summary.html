@@ -16,11 +16,11 @@
 			{{- end }}
 		</header>
 		{{- if .Params.thumbnail }}
-		<div class="list__thumbnail">
+		<figure class="list__thumbnail">
 			<a href="{{ .Permalink }}">
 				<img src="{{ .RelPermalink }}{{ .Params.thumbnail }}" alt="{{ .Title }}"/>
 			</a>
-		</div>
+		</figure>
 		{{- end }}
 		<div class="list__excerpt">
 			{{ .Summary }}

@@ -718,10 +718,6 @@ select {
 	margin-top: 5px;
 }
 
-.list__excerpt {
-	overflow: hidden;
-}
-
 .list__thumbnail {
 	float: left;
 	margin-right: 20px;
