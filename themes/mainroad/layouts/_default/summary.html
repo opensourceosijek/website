@@ -1,11 +1,4 @@
 <article class="list__item post clearfix">
-	{{- if .Params.thumbnail }}
-	<figure class="list__thumbnail">
-		<a href="{{ .Permalink }}">
-			<img src="{{ .RelPermalink }}{{ .Params.thumbnail }}" alt="{{ .Title }}" />
-		</a>
-	</figure>
-	{{- end }}
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
@@ -22,6 +15,13 @@
 			</div>
 			{{- end }}
 		</header>
+		{{- if .Params.thumbnail }}
+		<figure class="list__thumbnail">
+			<a href="{{ .Permalink }}">
+				<img src="{{ .RelPermalink }}{{ .Params.thumbnail }}" alt="{{ .Title }}" align="left" />
+			</a>
+		</figure>
+		{{- end }}
 		<div class="list__excerpt">
 			{{ .Summary }}
 		</div>
