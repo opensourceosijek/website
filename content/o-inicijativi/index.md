@@ -7,9 +7,9 @@ weight: 2
 date: 2013-10-30T17:30:43+00:00
 ---
 
-<p style="text-align: center;">
-  <img class="size-full wp-image-110 aligncenter" alt="logo_oso" src="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2013/10/logo_oso.png?resize=150%2C112&#038;ssl=1" width="150" height="112" data-recalc-dims="1" />
-</p>
+<figure>
+  <img class="aligncenter" alt="OSOS logo" src="/img/logo.png" width="150" height="112"/>
+</figure>
 
 ## Ideja
 
