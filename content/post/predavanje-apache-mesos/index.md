@@ -1,10 +1,9 @@
 ---
-title: 'Predavanje: Apache Mesos'
+title: "Predavanje: Apache Mesos"
 author: hhorvat
 type: post
 date: 2017-01-13T13:32:42+00:00
-url: /2017/01/13/predavanje-apache-mesos/
-featured_image: /wp-content/uploads/2017/01/apache-mesos-1170x5431-e1484314281607.png
+thumbnail: "thumbnail.png"
 categories:
   - Open Source projekti
   - Predavanja

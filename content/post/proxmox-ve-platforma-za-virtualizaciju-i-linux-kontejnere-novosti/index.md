@@ -3,8 +3,7 @@ title: Proxmox VE (platforma za virtualizaciju i Linux kontejnere) – novosti
 author: hhorvat
 type: post
 date: 2017-04-19T12:04:27+00:00
-url: /2017/04/19/proxmox-ve-platforma-za-virtualizaciju-i-linux-kontejnere-novosti/
-featured_image: /wp-content/uploads/2017/04/Proxmox_logo_standard_hex_400px.png
+thumbnail: "thumbnail.png"
 categories:
   - Članci
   - Open Source projekti
@@ -14,13 +13,7 @@ categories:
 tags:
   - Blog
   - Novosti
-
 ---
-<img class="alignnone size-full wp-image-2487" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2017/04/Proxmox_logo_standard_hex_400px.png?resize=400%2C60&#038;ssl=1" alt="" width="400" height="60" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2017/04/Proxmox_logo_standard_hex_400px.png?w=400&ssl=1 400w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2017/04/Proxmox_logo_standard_hex_400px.png?resize=150%2C23&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2017/04/Proxmox_logo_standard_hex_400px.png?resize=300%2C45&ssl=1 300w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1" />
-
-&nbsp;
-
-&nbsp;
 
 Duže vrijeme nismo spominjali Proxmox VE platformu za virtualizaciju i Linux kontejnere, zapravo od [zadnjeg predavanja][1] o **Proxmox VE** platformi iz 6. mjeseca prošle godine.
 

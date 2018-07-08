@@ -3,14 +3,13 @@ title: Java Talks
 author: hhorvat
 type: post
 date: 2017-01-13T13:51:25+00:00
-url: /2017/01/13/java-talks/
-featured_image: /wp-content/uploads/2017/01/java_talks_1-1170x5431.png
+thumbnail: "thumbnail.png"
 categories:
   - Predavanja
 tags:
   - Open Source
-
 ---
+
 Udruga [Osijek Software City][1] pokreće redovno mjesečno druženje Java developera na kojem ćete moći čuti sve o primjeni Java platforme u stvarnom svijetu.
 
 &nbsp;

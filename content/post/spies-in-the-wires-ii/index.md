@@ -3,12 +3,11 @@ title: Spies in The Wires II
 author: hhorvat
 type: post
 date: 2017-10-17T08:19:22+00:00
-url: /2017/10/17/spies-in-the-wires-ii/
-featured_image: /wp-content/uploads/2017/01/Enterprise-network-security1.jpg
+thumbnail: "thumbnail.jpg"
 categories:
   - Predavanja
-
 ---
+
 <div dir="auto">
   Ovu subotu, naš član i kolega te poznati stručnjak za informatičku sigurnost, kreće s novim zanimljivim predavanjem:
 </div>

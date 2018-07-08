@@ -3,8 +3,7 @@ title: 'Retrospektiva : Predavanje o računalnoj sigurnosti (II): “Slice me ni
 author: hhorvat
 type: post
 date: 2015-11-15T14:58:08+00:00
-url: /2015/11/15/retrospektiva-predavanje-o-racunalnoj-sigurnosti-ii-slice-me-nice-sql-injection/
-featured_image: /wp-content/uploads/2014/10/lock61.jpg
+thumbnail: "thumbnail.jpg"
 categories:
   - Predavanja
   - Programiranje

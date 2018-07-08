@@ -3,8 +3,7 @@ title: 'Predavanje o računalnoj sigurnosti (II): “Slice me nice” (SQL injec
 author: hhorvat
 type: post
 date: 2015-11-01T11:12:34+00:00
-url: /2015/11/01/predavanje-o-racunalnoj-sigurnosti-ii-slice-me-nice-sql-injection/
-featured_image: /wp-content/uploads/2014/10/lock61.jpg
+thumbnail: "thumbnail.jpg"
 categories:
   - OS@OS
   - Predavanja

@@ -1,17 +1,16 @@
 ---
-title: 'Prešli smo na novi TLS certifikat … i malo o TLS  (i https)'
+title: Prešli smo na novi TLS certifikat … i malo o TLS  (i https)
 author: hhorvat
 type: post
 date: 2017-05-10T11:03:55+00:00
-url: /2017/05/10/presli-smo-na-novi-tls-certifikat-i-malo-o-tls-i-https/
-featured_image: /wp-content/uploads/2014/10/lock61.jpg
+thumbnail: "thumbnail.jpg"
 categories:
   - Članci
   - Linux
   - OS@OS
   - Vijesti
-
 ---
+
 Možda niste niti svjesni činjenice kako je određene promjene uveo Google Chrome web preglednik, od inačice [58][1], a koje će vrlo vjerojatno i drugi slijediti.  Naime radi se o tome kako se novi _Chrome_ striktno drži standarda [RFC 2818][2]. Ovdje se radi o novom standardu za HTTPS komunikaciju, odnosno definiciji kako se treba, odnosno mora,  koristiti **TLS** (_Transport Layer Security_ ), koji je usput rečeno, naslijedio **SSL (**_Secure Sockets Layer_**)** protokol, kao standard za kriptiranje podataka za HTTP protokol.
 
 Za one kojima nije jasna ova poveznica, zamislite TLS kao tunel kroz koji prolaze samo i isključivo kriptirani (zaštićeni) podaci, od i prema HTTP protokola odnosno od i prema **web** poslužitelju.
