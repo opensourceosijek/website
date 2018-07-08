@@ -33,31 +33,7 @@ relativeURLs = true
 
 [menu]
     [[menu.main]]
-        name = "Početna"
+        name = "Članci"
         url = "/"
         identifier = "post"
         weight = 1
-
-    [[menu.main]]
-        name = "O inicijativi"
-        url = "/o-inicijativi/"
-        identifier = "o-inicijativi"
-        weight = 2
-
-    [[menu.main]]
-        name = "O nama"
-        url = "/o-nama/"
-        identifier = "o-nama"
-        weight = 3
-
-    [[menu.main]]
-        name = "Knjige"
-        url = "/knjige/"
-        identifier = "knjige"
-        weight = 4
-
-    [[menu.main]]
-        name = "Kontakt"
-        url = "/kontakt/"
-        identifier = "kontakt"
-        weight = 5

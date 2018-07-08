@@ -2,8 +2,9 @@
 title: Knjige
 author: hvarga
 type: page
+menu: "main"
+weight: 4
 date: 2014-02-25T12:24:44+00:00
-
 ---
 
 ## Kratka povijest UNIXa - Od UNICSa do FreeBSDa i Linuxa

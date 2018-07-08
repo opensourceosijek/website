@@ -2,6 +2,8 @@
 title: O nama
 author: dcagalj
 type: page
+menu: "main"
+weight: 3
 date: 2013-10-30T18:04:21+00:00
 ---
 

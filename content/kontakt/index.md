@@ -2,8 +2,9 @@
 title: Kontakt
 author: dcagalj
 type: page
+menu: "main"
+weight: 5
 date: 2013-10-30T18:31:20+00:00
-
 ---
 ## Za sve informacije i pitanja možete nas kontaktirati:
 
