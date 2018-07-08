@@ -6,6 +6,7 @@ theme = "mainroad"
 disqusShortname = ""
 googleAnalytics = ""
 relativeURLs = true
+enableGitInfo = true
 
 [permalinks]
     post = "/:year/:month/:day/:title/"
