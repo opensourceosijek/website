@@ -718,10 +718,6 @@ select {
 	margin-top: 5px;
 }
 
-.list__excerpt {
-	overflow: hidden;
-}
-
 .list__thumbnail {
 	float: left;
 	margin-right: 20px;
@@ -1149,7 +1145,11 @@ textarea {
 	}
 
 	.list__thumbnail {
-		max-width: 80px;
+		width: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		margin-bottom: 0.625rem;
 	}
 
 	.list__title {
@@ -1164,6 +1164,6 @@ textarea {
 	}
 
 	.list__excerpt {
-		display: none;
+		width: 100%;
 	}
 }

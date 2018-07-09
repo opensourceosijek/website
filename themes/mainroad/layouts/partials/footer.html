@@ -1,10 +1,18 @@
-	</div>
-		<footer class="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
-			<div class="container container-inner">
-				<p class="footer__copyright">&copy; {{ now.Format "2006" }} {{ .Site.Title }}. <span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad theme</a>.</span></p>
-			</div>
-		</footer>
-	</div><!-- .mh-container-outer -->
+{{ partial "commit.html" . }}
+</div>
+	<footer class="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+		<div class="container container-inner">
+			<p class="footer__copyright">
+				&copy; {{ now.Format "2006" }} {{ .Site.Title }}.
+				<span class="footer__copyright-credits">
+					Web je generiran pomoću <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> alata koristeći <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> temu.
+					{{ $commit := $.Scratch.Get "commit" }}
+					Zadnja revizija: <em><a href="https://github.com/opensourceosijek/website/commit/{{ $commit }}" rel="nofollow noopener" target="_blank">{{ $commit }}</a></em>.
+				</span>
+			</p>
+		</div>
+	</footer>
+</div><!-- .mh-container-outer -->
 
 <script>
 	var navigation = responsiveNav(".menu", {

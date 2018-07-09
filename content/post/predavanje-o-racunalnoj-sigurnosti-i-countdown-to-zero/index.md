@@ -3,8 +3,7 @@ title: 'Predavanje o računalnoj sigurnosti (I): “Countdown to zero”'
 author: hhorvat
 type: post
 date: 2015-08-30T19:00:50+00:00
-url: /2015/08/30/predavanje-o-racunalnoj-sigurnosti-i-countdown-to-zero/
-featured_image: /wp-content/uploads/2014/10/lock61.jpg
+thumbnail: "thumbnail.jpg"
 categories:
   - OS@OS
   - Predavanja
@@ -12,8 +11,8 @@ categories:
   - Vijesti
 tags:
   - Security
-
 ---
+
 Krećemo sa  zanimljivim nizom predavanja o računalnoj sigurnosti.
 
 Predavanja će držati moj dobar kolega, inaće vrhunski stručnjak iz područja računalne sigurnosti, čovjek s dugogodišnjim iskustvom u praksi te svim relevantnim (i svjetski priznatim) certifikatima  :

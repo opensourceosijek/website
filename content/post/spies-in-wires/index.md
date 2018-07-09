@@ -3,13 +3,12 @@ title: Spies in Wires
 author: hhorvat
 type: post
 date: 2017-01-23T15:34:25+00:00
-url: /2017/01/23/spies-in-wires/
-featured_image: /wp-content/uploads/2017/01/Enterprise-network-security1.jpg
+thumbnail: "thumbnail.jpg"
 categories:
   - Predavanja
   - Security
-
 ---
+
 Pozivamo vas na  predavanje &#8220;Spies in Wires&#8221; u ime CodeCAMPa , koje će održati [Bojan Alikavazović][1], član inicijative &#8220;Open Source Osijek&#8221;.
 
 &nbsp;

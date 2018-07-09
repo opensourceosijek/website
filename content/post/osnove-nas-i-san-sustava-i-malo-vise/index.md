@@ -3,8 +3,7 @@ title: Osnove NAS i SAN sustava (i malo više)
 author: hhorvat
 type: post
 date: 2016-09-08T11:06:34+00:00
-url: /2016/09/08/osnove-nas-i-san-sustava-i-malo-vise/
-featured_image: /wp-content/uploads/2016/09/NAS-i-SAN-1-2.jpg
+thumbnail: "thumbnail.jpg"
 categories:
   - Članci
   - Linux
@@ -14,8 +13,8 @@ tags:
   - Članci
   - linux
   - Open Source
-
 ---
+
 <p class="sectionedit3">
   <strong>U daljem tekstu upoznati ćemo se s jednostavnijim NAS i SAN sustavima, preko malo složenijih (ZFS) sve do onih klasterskih. Potom ćete vidjeti kako rade i što su uopće &#8220;Object Storage&#8221; sustavi.</strong>
 </p>
