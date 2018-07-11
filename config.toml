@@ -38,3 +38,6 @@ enableGitInfo = true
         url = "/"
         identifier = "post"
         weight = 1
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
