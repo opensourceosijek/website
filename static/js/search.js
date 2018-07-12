@@ -5,57 +5,68 @@ window.onload = function() {
     var searchQuery = searchParams.get("q");
 
     if (searchQuery) {
+        renderStatus("Pretraživanje u tijeku, molimo pričekajte...");
         executeSearch(searchQuery);
     } else {
         // User didn't type anything into search box.
-        document.getElementById('search-result').innerHTML = "<p>Morate upisati riječ ili frazu koju želite pretraživati.</p>";
+        renderStatus("Morate upisati riječ ili frazu koju želite pretraživati.");
     }
+}
+
+function renderStatus(status) {
+    var statusObject = document.getElementById('status');
+
+    if (status == null) {
+        statusObject.style.display = "none";
+        statusObject.innerHTML = "";
+        return;
+    }
+    statusObject.innerHTML = status;
+    statusObject.style.display = "inline";
 }
 
 // Prepare and send HTTP GET request and wait for the response.
 // After response is received, parse it into JSON object, and do the fuzzy search against this JSON object.
 function executeSearch(searchQuery) {
     var request = new XMLHttpRequest();
-    request.onreadystatechange = function() {
-        if (this.readyState == 4 && this.status == 200) {
-            var jsonResponse = JSON.parse(request.responseText);
-            // Configuration for fuse.js.
-            var fuseOptions = {
-                shouldSort: true,
-                threshold: 0.0,
-                tokenize:true,
-                location: 0,
-                distance: 100,
-                maxPatternLength: 32,
-                minMatchCharLength: 1,
-                keys: [
-                    {
-                        name: "title",
-                        weight: 0.8
-                    },
-                    {
-                        name: "contents",
-                        weight: 0.5
-                    },
-                    {
-                        name: "tags",
-                        weight: 0.4
-                    },
-                    {
-                        name: "categories",
-                        weight: 0.3
-                    }
-                ]
-            };
-            var fuse = new Fuse(jsonResponse, fuseOptions);
-            var result = fuse.search(searchQuery);
-            if (result.length > 0) {
-                populateResults(result);
-            } else {
-                document.getElementById('search-result').innerHTML = "<p>Nema rezultata pretrage</p>";
-            }
+    request.addEventListener("load", function() {
+        var jsonResponse = JSON.parse(request.responseText);
+        // Configuration for fuse.js.
+        var fuseOptions = {
+            shouldSort: true,
+            threshold: 0.0,
+            tokenize:true,
+            location: 0,
+            distance: 100,
+            maxPatternLength: 32,
+            minMatchCharLength: 1,
+            keys: [
+                {
+                    name: "title",
+                    weight: 0.8
+                },
+                {
+                    name: "contents",
+                    weight: 0.5
+                },
+                {
+                    name: "tags",
+                    weight: 0.4
+                },
+                {
+                    name: "categories",
+                    weight: 0.3
+                }
+            ]
+        };
+        var fuse = new Fuse(jsonResponse, fuseOptions);
+        var result = fuse.search(searchQuery);
+        if (result.length > 0) {
+            populateResults(result);
+        } else {
+            renderStatus("Nema rezultata pretrage.");
         }
-    };
+    });
     request.open("GET", "/index.json");
     request.send();
 }
@@ -74,6 +85,7 @@ function populateResults(result) {
     // Iterate over JSON result and let mustache.js populate the placeholder values from HTML template.
     // Insert populated HTML template into the DOM.
     var searchResultObject = document.getElementById('search-result');
+    renderStatus(null);
     for (var key in result) {
         var rendered = Mustache.render(templateDefinition, {link: result[key].permalink, title: result[key].title});
         searchResultObject.innerHTML += rendered;
