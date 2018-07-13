@@ -10,4 +10,4 @@ build:
 	hugo
 
 server: all
-	hugo server --disableFastRender
+	hugo server --disableFastRender --buildDrafts
