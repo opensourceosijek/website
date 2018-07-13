@@ -3,7 +3,6 @@ title: 'Retrospektiva : Virtualizacija, linux kontejneri i Proxmox VE'
 author: hhorvat
 type: post
 date: 2016-06-28T14:50:18+00:00
-url: /2016/06/28/retrospektiva-virtualizacija-linux-kontejneri-i-proxmox-ve/
 featured_image: /wp-content/uploads/2015/12/ProxMox-small.jpg
 categories:
   - Hardware
