@@ -1,5 +1,5 @@
 {{- if .Site.Params.authorbox }}
-	{{ if isset .Params "author" }}
+    {{ if and (isset .Params "author") (ne .Params.author nil) }}
 		{{ $author := index .Site.Data.authors .Params.author }}
 		{{ if $author }}
 			<div class="authorbox clearfix">

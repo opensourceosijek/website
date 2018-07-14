@@ -1,12 +1,12 @@
-{{ if isset .Params "author" }}
+{{ if and (isset .Params "author") (ne .Params.author nil) }}
     <span></span>
     <i class="list__meta-author far fa-user"></i>
     {{ $author := index .Site.Data.authors .Params.author }}
     {{ if $author }}
         <a class="list__meta-author" href="/authors/{{ .Params.author }}">{{ $author.name }}</a>
     {{ else }}
-        <label class="list__meta-author">Unknown</label>
+        <label class="list__meta-author">Nepoznato</label>
     {{ end }}
 {{ else }}
-    <label class="list__meta-author">Unknown</label>
+    <label class="list__meta-author">Nepoznato</label>
 {{ end }}
