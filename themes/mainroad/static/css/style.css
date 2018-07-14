@@ -1167,3 +1167,7 @@ textarea {
 		width: 100%;
 	}
 }
+.social_row {
+	display: block;
+	margin-bottom: 5px;
+}

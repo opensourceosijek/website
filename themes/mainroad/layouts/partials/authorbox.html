@@ -12,12 +12,38 @@
 					<div class="authorbox__header">
 						<span class="authorbox__name">{{ . }}</span>
 					</div>
-				{{- end }}
+                {{- end }}
+                {{ if $author.social }}
+                    {{- with $author.social }}
+                        <div class="social_row">
+                            {{ if .github }}
+                                <a href="{{ .github }}" class="row-item" title="GitHub" target="_blank">
+                                    <i class="fab fa-github"></i>
+                                </a>
+                            {{ end }}
+                            {{ if .linkedin }}
+                                <a href="{{ .linkedin }}" class="row-item" title="LinkedIn" target="_blank">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                            {{ end }}
+                            {{ if .website }}
+                                <a href="{{ .website }}" class="row-item" title="Website" target="_blank">
+                                    <i class="fas fa-link"></i>
+                                </a>
+                            {{ end }}
+                            {{ if .email }}
+                                <a href="mailto:{{ .email }}" class="row-item" title="E-mail">
+                                    <i class="fas fa-envelope"></i>
+                                </a>
+                            {{ end }}
+                        </div>
+                    {{- end }}
+                {{ end }}
 				{{- with $author.bio }}
 					<div class="authorbox__description">
 						{{ . }}
 					</div>
-				{{- end }}
+                {{- end }}
 			</div>
 		{{ end }}
 	{{- end }}
