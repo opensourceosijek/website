@@ -1,6 +1,6 @@
 ---
 title: O nama
-author: dcagalj
+authors: dcagalj
 type: page
 menu: "main"
 weight: 3

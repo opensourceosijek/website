@@ -1,6 +1,6 @@
 ---
 title: Virtualizacija, linux kontejneri i Proxmox VE
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2016-06-03T08:03:16+00:00
 url: /2016/06/03/virtualizacija-linux-kontejneri-i-proxmox-ve/

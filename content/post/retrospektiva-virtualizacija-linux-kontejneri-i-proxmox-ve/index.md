@@ -1,6 +1,6 @@
 ---
 title: 'Retrospektiva : Virtualizacija, linux kontejneri i Proxmox VE'
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2016-06-28T14:50:18+00:00
 featured_image: /wp-content/uploads/2015/12/ProxMox-small.jpg

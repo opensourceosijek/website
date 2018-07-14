@@ -1,6 +1,6 @@
 ---
 title: Diplome za sve polaznike naših predavanja i radionica
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2014-11-12T08:45:07+00:00
 url: /2014/11/12/diplome-za-sve-polaznike-nasih-predavanja-i-radionica/

@@ -1,9 +1,9 @@
-{{ if and (isset .Params "author") (ne .Params.author nil) }}
+{{ if and (isset .Params "authors") (ne .Params.authors nil) }}
     <span></span>
     <i class="list__meta-author far fa-user"></i>
-    {{ $author := index .Site.Data.authors .Params.author }}
-    {{ if $author }}
-        <a class="list__meta-author" href="/authors/{{ .Params.author }}">{{ $author.name }}</a>
+    {{ $authors := index .Site.Data.authors .Params.authors }}
+    {{ if $authors }}
+        <a class="list__meta-author" href="/authors/{{ .Params.authors }}">{{ $authors.name }}</a>
     {{ else }}
         <label class="list__meta-author">Nepoznato</label>
     {{ end }}

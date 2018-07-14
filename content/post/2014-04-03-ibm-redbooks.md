@@ -1,6 +1,6 @@
 ---
 title: IBM Redbooks
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2014-04-03T18:58:12+00:00
 url: /2014/04/03/ibm-redbooks/

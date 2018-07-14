@@ -1,6 +1,6 @@
 ---
 title: Naši projekti
-author: hhorvat
+authors: hhorvat
 type: page
 date: 2013-11-06T15:05:33+00:00
 

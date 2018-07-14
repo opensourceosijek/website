@@ -1,6 +1,6 @@
 ---
 title: Synergy Platform
-author: hhorvat
+authors: hhorvat
 type: page
 date: 2013-11-05T15:31:50+00:00
 

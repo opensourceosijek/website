@@ -1,6 +1,6 @@
 ---
 title: Multilayer Switching
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2014-06-25T16:10:36+00:00
 url: /2014/06/25/multilayer-switching/

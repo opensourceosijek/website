@@ -1,6 +1,6 @@
 ---
 title: Knjige
-author: hvarga
+authors: hvarga
 type: page
 menu: "main"
 weight: 4

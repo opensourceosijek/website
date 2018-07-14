@@ -1,6 +1,6 @@
 ---
 title: Sviđa li vam se novi dizajn?
-author: hvarga
+authors: hvarga
 type: post
 date: 2014-01-12T08:46:31+00:00
 url: /2014/01/12/svida-li-vam-se-novi-dizajn/

@@ -1,6 +1,6 @@
 ---
 title: 'Predavanje o računalnoj sigurnosti (II): “Slice me nice” (SQL injection)'
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2015-11-01T11:12:34+00:00
 thumbnail: "thumbnail.jpg"

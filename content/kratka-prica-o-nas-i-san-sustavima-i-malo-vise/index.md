@@ -1,6 +1,6 @@
 ---
 title: Kratka priča o NAS i SAN sustavima (i malo više)
-author: hhorvat
+authors: hhorvat
 type: page
 date: 2017-03-29T11:09:39+00:00
 featured_image: /wp-content/uploads/2016/09/NAS-i-SAN-1-4.jpg

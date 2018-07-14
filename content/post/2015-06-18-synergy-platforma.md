@@ -1,6 +1,6 @@
 ---
 title: Synergy platforma
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2015-06-18T09:58:06+00:00
 url: /2015/06/18/synergy-platforma/

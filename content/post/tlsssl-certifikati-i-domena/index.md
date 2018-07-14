@@ -1,6 +1,6 @@
 ---
 title: TLS/SSL certifikati i domena
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2014-10-21T14:06:00+00:00
 thumbnail: "thumbnail.jpg"

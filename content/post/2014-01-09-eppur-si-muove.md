@@ -1,6 +1,6 @@
 ---
 title: Eppur si muove!
-author: hvarga
+authors: hvarga
 type: post
 date: 2014-01-09T19:47:15+00:00
 url: /2014/01/09/eppur-si-muove/

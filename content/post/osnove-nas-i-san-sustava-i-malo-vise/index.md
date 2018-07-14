@@ -1,6 +1,6 @@
 ---
 title: Osnove NAS i SAN sustava (i malo više)
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2016-09-08T11:06:34+00:00
 thumbnail: "thumbnail.jpg"

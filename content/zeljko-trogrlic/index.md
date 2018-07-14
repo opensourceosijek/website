@@ -1,6 +1,6 @@
 ---
 title: Željko Trogrlić
-author: hhorvat
+authors: hhorvat
 type: page
 date: 2013-12-19T14:44:34+00:00
 

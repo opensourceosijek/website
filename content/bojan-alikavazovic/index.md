@@ -1,6 +1,6 @@
 ---
 title: Bojan Alikavazović
-author: dcagalj
+authors: dcagalj
 type: page
 date: 2015-12-15T16:28:20+00:00
 

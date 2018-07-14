@@ -1,6 +1,6 @@
 ---
 title: Upotreba Proxy poslužitelja sa autokonfiguracijom klijenata
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2014-05-17T17:56:54+00:00
 url: /2014/05/17/upotreba-proxy-posluzitelja-sa-autokonfiguracijom-klijenata/

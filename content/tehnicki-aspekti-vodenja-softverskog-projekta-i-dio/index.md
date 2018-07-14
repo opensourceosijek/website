@@ -1,6 +1,6 @@
 ---
 title: Tehnički aspekti vođenja softverskog projekta I dio
-author: hhorvat
+authors: hhorvat
 type: page
 date: 2013-11-13T08:12:22+00:00
 

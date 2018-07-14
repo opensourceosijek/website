@@ -1,6 +1,6 @@
 ---
 title: 'Retrospektiva: Uvod u programski jezik Java (II. dio)'
-author: hvarga
+authors: hvarga
 type: post
 date: 2014-07-12T15:17:51+00:00
 url: /2014/07/12/retrospektiva-uvod-u-programski-jezik-java-ii-dio/

@@ -1,6 +1,6 @@
 ---
 title: "Predavanje: Apache Mesos"
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2017-01-13T13:32:42+00:00
 thumbnail: "thumbnail.png"

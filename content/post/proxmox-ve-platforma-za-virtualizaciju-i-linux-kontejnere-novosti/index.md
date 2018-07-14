@@ -1,6 +1,6 @@
 ---
 title: Proxmox VE (platforma za virtualizaciju i Linux kontejnere) – novosti
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2017-04-19T12:04:27+00:00
 thumbnail: "thumbnail.png"

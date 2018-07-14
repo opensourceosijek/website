@@ -1,6 +1,6 @@
 ---
 title: 'Retrospektiva : Uvod u Linux – radionica (10.dio)'
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2016-02-02T14:53:11+00:00
 url: /2016/02/02/retrospektiva-uvod-u-linux-radionica-10-dio/

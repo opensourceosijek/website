@@ -1,6 +1,6 @@
 ---
 title: Uvod u Linux – radionica (12.dio)
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2016-03-07T18:40:47+00:00
 url: /2016/03/07/uvod-u-linux-radionica-12-dio/

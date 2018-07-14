@@ -1,6 +1,6 @@
 ---
 title: Projekt ArhiXML spreman za testiranje
-author: hvarga
+authors: hvarga
 type: post
 date: 2013-12-04T18:31:43+00:00
 url: /2013/12/04/projekt-arhixml-spreman-za-testiranje/

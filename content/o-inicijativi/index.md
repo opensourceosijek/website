@@ -1,6 +1,6 @@
 ---
 title: O inicijativi
-author: dcagalj
+authors: dcagalj
 type: page
 menu: "main"
 weight: 2

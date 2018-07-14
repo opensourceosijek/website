@@ -1,6 +1,6 @@
 ---
 title: Prešli smo na novi TLS certifikat … i malo o TLS  (i https)
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2017-05-10T11:03:55+00:00
 thumbnail: "thumbnail.jpg"

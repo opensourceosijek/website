@@ -1,6 +1,6 @@
 ---
 title: “Proxmox Server Solutions GmbH” je postao tehnološki partner inicijative “Open Source Osijek”
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2015-12-24T12:44:13+00:00
 url: /2015/12/24/proxmox-server-solutions-gmbh-je-postao-tehnoloski-partner-inicijative-open-source-osijek/

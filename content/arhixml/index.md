@@ -1,6 +1,6 @@
 ---
 title: ArhiXML
-author: hhorvat
+authors: hhorvat
 type: page
 date: 2013-11-20T09:51:55+00:00
 

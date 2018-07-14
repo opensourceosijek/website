@@ -1,6 +1,6 @@
 ---
 title: GIS Server
-author: hhorvat
+authors: hhorvat
 type: page
 date: 2013-11-20T13:20:15+00:00
 

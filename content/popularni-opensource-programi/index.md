@@ -1,6 +1,6 @@
 ---
 title: Popularni OpenSource Programi
-author: dcagalj
+authors: dcagalj
 type: page
 date: 2013-11-01T09:00:40+00:00
 

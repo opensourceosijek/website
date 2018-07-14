@@ -1,6 +1,6 @@
 ---
 title: Naučite programirati u deset godina
-author: hvarga
+authors: hvarga
 type: post
 date: 2013-12-01T07:05:25+00:00
 url: /2013/12/01/naucite-programirati-u-deset-godina/

@@ -1,6 +1,6 @@
 ---
 title: Tehnički aspekti upravljanja softverskim projektima
-author: dcagalj
+authors: dcagalj
 type: post
 date: 2013-10-29T15:25:02+00:00
 url: /2013/10/29/tehnicki-aspekti-upravljanja-softverskim-projektima/

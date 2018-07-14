@@ -1,6 +1,6 @@
 ---
 title: Hrvoje Horvat
-author: dcagalj
+authors: dcagalj
 type: page
 date: 2013-10-30T18:14:40+00:00
 

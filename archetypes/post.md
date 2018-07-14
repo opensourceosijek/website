@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-author:
+authors:
 date: {{ .Date }}
 draft: true
 thumbnail: ""

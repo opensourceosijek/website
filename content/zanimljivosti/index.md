@@ -1,6 +1,6 @@
 ---
 title: Zanimljivosti
-author: dcagalj
+authors: dcagalj
 type: page
 date: 2014-04-08T16:10:07+00:00
 

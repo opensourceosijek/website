@@ -1,6 +1,6 @@
 ---
 title: 'Retrospektiva: Suradnja s poduzetničkim inkubatorom (BIOS) Osijek : Implementacija infrastrukture potrebne za virtualizacijsku platformu'
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2015-12-24T10:55:06+00:00
 url: /2015/12/24/retrospektiva-suradnja-s-poduzetnickim-inkubatorom-bios-osijek-implementacija-infrastrukture-potrebne-za-virtualizacijsku-platformu/

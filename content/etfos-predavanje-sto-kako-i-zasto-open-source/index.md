@@ -1,6 +1,6 @@
 ---
 title: 'ETFOS: predavanje “Što, kako i zašto Open Source”'
-author: hhorvat
+authors: hhorvat
 type: page
 date: 2013-11-04T15:34:45+00:00
 

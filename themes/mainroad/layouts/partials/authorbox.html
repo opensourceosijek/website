@@ -1,20 +1,20 @@
 {{- if .Site.Params.authorbox }}
-    {{ if and (isset .Params "author") (ne .Params.author nil) }}
-		{{ $author := index .Site.Data.authors .Params.author }}
-		{{ if $author }}
+    {{ if and (isset .Params "authors") (ne .Params.authors nil) }}
+		{{ $authors := index .Site.Data.authors .Params.authors }}
+		{{ if $authors }}
 			<div class="authorbox clearfix">
-				{{- with $author.image }}
+				{{- with $authors.image }}
 					<figure class="authorbox__avatar">
-						<img alt="{{ $author.name }} avatar" src="{{ . | relURL }}" class="avatar" height="90" width="90">
+						<img alt="{{ $authors.name }} avatar" src="{{ . | relURL }}" class="avatar" height="90" width="90">
 					</figure>
 				{{- end }}
-				{{- with $author.name }}
+				{{- with $authors.name }}
 					<div class="authorbox__header">
 						<span class="authorbox__name">{{ . }}</span>
 					</div>
                 {{- end }}
-                {{ if $author.social }}
-                    {{- with $author.social }}
+                {{ if $authors.social }}
+                    {{- with $authors.social }}
                         <div class="social_row">
                             {{ if .github }}
                                 <a href="{{ .github }}" class="row-item" title="GitHub" target="_blank">
@@ -39,7 +39,7 @@
                         </div>
                     {{- end }}
                 {{ end }}
-				{{- with $author.bio }}
+				{{- with $authors.bio }}
 					<div class="authorbox__description">
 						{{ . }}
 					</div>

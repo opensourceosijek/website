@@ -1,6 +1,6 @@
 ---
 title: Dario Čagalj
-author: dcagalj
+authors: dcagalj
 type: page
 date: 2013-11-03T10:19:13+00:00
 

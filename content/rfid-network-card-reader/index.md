@@ -1,6 +1,6 @@
 ---
 title: RFID Network Card Reader
-author: hhorvat
+authors: hhorvat
 type: page
 date: 2013-11-20T10:37:09+00:00
 

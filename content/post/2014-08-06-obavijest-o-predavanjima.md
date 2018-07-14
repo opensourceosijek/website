@@ -1,6 +1,6 @@
 ---
 title: Obavijest o predavanjima
-author: hvarga
+authors: hvarga
 type: post
 date: 2014-08-06T09:43:32+00:00
 url: /2014/08/06/obavijest-o-predavanjima/

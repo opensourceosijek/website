@@ -1,6 +1,6 @@
 ---
 title: 'Knjiga : Uvod u Linux'
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2014-08-14T18:54:27+00:00
 url: /2014/08/14/knjiga-uvod-u-linux/

@@ -1,6 +1,6 @@
 ---
 title: Red Hat Enterprise Linux 7
-author: hvarga
+authors: hvarga
 type: post
 date: 2014-06-10T20:49:11+00:00
 url: /2014/06/10/red-hat-enterprise-linux-7/

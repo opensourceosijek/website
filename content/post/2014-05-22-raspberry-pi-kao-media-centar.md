@@ -1,6 +1,6 @@
 ---
 title: Raspberry Pi kao Media Centar
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2014-05-22T07:46:35+00:00
 url: /2014/05/22/raspberry-pi-kao-media-centar/

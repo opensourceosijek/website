@@ -1,6 +1,6 @@
 ---
 title: 'Retrospektiva : Uvod u Linux, 4 dio'
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2014-10-25T13:13:55+00:00
 url: /2014/10/25/retrospektiva-uvod-u-linux-4-dio/

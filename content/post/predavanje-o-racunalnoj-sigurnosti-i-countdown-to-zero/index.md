@@ -1,6 +1,6 @@
 ---
 title: 'Predavanje o računalnoj sigurnosti (I): “Countdown to zero”'
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2015-08-30T19:00:50+00:00
 thumbnail: "thumbnail.jpg"

@@ -40,4 +40,9 @@ enableGitInfo = true
         weight = 1
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+    home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    author = "authors"

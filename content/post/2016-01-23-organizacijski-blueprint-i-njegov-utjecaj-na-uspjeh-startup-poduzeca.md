@@ -1,6 +1,6 @@
 ---
 title: Organizacijski Blueprint i njegov utjecaj na uspjeh startup poduzeća
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2016-01-23T13:21:49+00:00
 url: /2016/01/23/organizacijski-blueprint-i-njegov-utjecaj-na-uspjeh-startup-poduzeca/

@@ -1,6 +1,6 @@
 ---
 title: Plan predavanja i radionica za 2014. g.
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2013-12-13T13:45:36+00:00
 url: /2013/12/13/plan-predavanja-i-radionica-za-2014-g/

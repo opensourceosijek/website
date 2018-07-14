@@ -1,6 +1,6 @@
 ---
 title: Spies in The Wires II
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2017-10-17T08:19:22+00:00
 thumbnail: "thumbnail.jpg"

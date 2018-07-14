@@ -1,6 +1,6 @@
 ---
 title: Spies in Wires
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2017-01-23T15:34:25+00:00
 thumbnail: "thumbnail.jpg"

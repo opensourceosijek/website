@@ -1,6 +1,6 @@
 ---
 title: Uvod u programiranje – II. dio
-author: hvarga
+authors: hvarga
 type: post
 date: 2014-03-18T19:24:05+00:00
 url: /2014/03/18/uvod-u-programiranje-ii-dio/

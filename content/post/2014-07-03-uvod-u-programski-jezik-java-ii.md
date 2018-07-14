@@ -1,6 +1,6 @@
 ---
 title: Uvod u programski jezik Java (II)
-author: hvarga
+authors: hvarga
 type: post
 date: 2014-07-03T11:34:25+00:00
 url: /2014/07/03/uvod-u-programski-jezik-java-ii/

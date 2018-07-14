@@ -1,6 +1,6 @@
 ---
 title: 'Predavanje: Uvod u Linux III dio'
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2014-02-06T20:48:48+00:00
 url: /2014/02/06/predavanje-uvod-u-linux-iii-dio/

@@ -1,6 +1,6 @@
 ---
 title: Java Talks
-author: hhorvat
+authors: hhorvat
 type: post
 date: 2017-01-13T13:51:25+00:00
 thumbnail: "thumbnail.png"
