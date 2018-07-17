@@ -1,4 +1,7 @@
 {
     "name": "Demis Bradarić",
-    "image": "/img/demis-bradaric.jpg"
+    "image": "/img/demis-bradaric.jpg",
+    "social": {
+        "email": "demis.bradaric@gmail.com"
+    }
 }

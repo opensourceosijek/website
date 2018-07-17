@@ -1,4 +1,8 @@
 {
     "name": "Kristijan Bradarić",
-    "image": "/img/kristijan-bradaric.jpg"
+    "image": "/img/kristijan-bradaric.jpg",
+    "social": {
+        "skype": "elbradone",
+        "email": "kristijan.bradaric@gmail.com"
+    }
 }

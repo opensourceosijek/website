@@ -1,0 +1,36 @@
+{{ if .social }}
+    {{- with .social }}
+        <div class="social_row">
+            {{ if .github }}
+                <a href="{{ .github }}" class="row-item" title="GitHub" target="_blank">
+                    <i class="fab fa-github"></i>
+                </a>
+            {{ end }}
+            {{ if .facebook }}
+                <a href="{{ .facebook }}" class="row-item" title="Facebook" target="_blank">
+                    <i class="fab fa-facebook"></i>
+                </a>
+            {{ end }}
+            {{ if .linkedin }}
+                <a href="{{ .linkedin }}" class="row-item" title="LinkedIn" target="_blank">
+                    <i class="fab fa-linkedin"></i>
+                </a>
+            {{ end }}
+            {{ if .website }}
+                <a href="{{ .website }}" class="row-item" title="Website" target="_blank">
+                    <i class="fas fa-link"></i>
+                </a>
+            {{ end }}
+            {{ if .email }}
+                <a href="mailto:{{ .email }}" class="row-item" title="E-mail">
+                    <i class="fas fa-envelope"></i>
+                </a>
+            {{ end }}
+            {{ if .skype }}
+                <a href="skype:{{ .skype }}?call" class="row-item" title="Skype">
+                    <i class="fab fa-skype"></i>
+                </a>
+            {{ end }}
+        </div>
+    {{- end }}
+{{ end }}

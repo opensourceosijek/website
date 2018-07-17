@@ -1,4 +1,9 @@
 {
     "name": "Dario Čagalj",
-    "image": "/img/dario-cagalj.png"
+    "image": "/img/dario-cagalj.png",
+    "social": {
+        "facebook": "https://www.facebook.com/dario.cagalj.3",
+        "linkedin": "https://hr.linkedin.com/in/dario-čagalj-90313648",
+        "email": "dcagalj1980@gmail.com2"
+    }
 }

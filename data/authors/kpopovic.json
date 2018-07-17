@@ -1,4 +1,9 @@
 {
     "name": "Krešimir Popović",
-    "image": "/img/kresimir-popovic.png"
+    "image": "/img/kresimir-popovic.png",
+    "social": {
+        "linkedin": "http://www.linkedin.com/in/kresimirpopovic",
+        "email": "kresimir.popovic@gmail.com",
+        "facebook": "https://www.facebook.com/kresimir.popovic"
+    }
 }

@@ -1,5 +1,10 @@
 {
     "name": "Hrvoje Horvat",
     "bio": "Hrvoje Horvat mrežni je i sistem inženjer s dugogodišnjim (18+ g.) iskustvom u razvoju, testiranju i implementaciji, od najmanjih do enterprise kategorije IT sustava. Njegova područja rada su od mrežnih protokola do mrežnih servisa, preko standardne mrežne opreme do specijaliziranih komponenti i sustava, preko raznih mrežnih elemenata i sustava za mrežnu pohranu i dijeljenje podataka te platformi za Virtualizaciju, do protokola i sustava za redundanciju te sustava visoke dostupnosti (HA).",
-    "image": "/img/hrvoje-horvat.png"
+    "image": "/img/hrvoje-horvat.png",
+    "social": {
+        "linkedin": "https://www.linkedin.com/in/hrvoje-horvat-48477b1",
+        "email": "hrvoje.horvat1@googlemail.com",
+        "facebook": "http://www.facebook.com/hrvoje.horvat.3994"
+    }
 }

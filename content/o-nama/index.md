@@ -10,17 +10,25 @@ date: 2013-10-30T18:04:21+00:00
 ## Voditelji projekta
 
 {{< member "hhorvat" >}}
+</br>
 {{< member "hvarga" >}}
+</br>
 {{< member "kpopovic" >}}
+</br>
 {{< member "dcagalj" >}}
+</br>
 {{< member "dbradaric" >}}
+</br>
 {{< member "kbradaric" >}}
+</br>
 {{< member "balikavazovic" >}}
 
 ## Stručni suradnici
 
 {{< member "enemet" >}}
+</br>
 {{< member "ztrogrlic" >}}
+</br>
 {{< member "plubina" >}}
 
 ## U medijima
