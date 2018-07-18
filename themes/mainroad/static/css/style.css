@@ -1173,7 +1173,9 @@ textarea {
 }
 .social_row a {
 	color: #000000;
+	font-size: 16px;
 }
 .social_row a:hover {
 	color: #e64946;
+	text-decoration: none
 }
