@@ -24,7 +24,7 @@ Tvrtke imaju dva izbora; koristiti sam ARHiNET sustav koji se naplaćuje ili bes
 - Nakon izrade XML datoteke, ista se mora validirati. Postoje alati koji validiraju XML datoteku pomoću XML schema datoteke.
 - Takvi alati predstavljaju dodatnu investiciju za korisnika te također traže određeni nivo tehničkog predznanja za ispravno korištenje.
 
-Elizabet, za potrebe obavljanja svog posla, je došla na ideju da se napravi računalna aplikacija koja će olakšati unos arhive u digitalni oblik. Naravno, bez korištenja i plaćanja ARHiNET sustava. Elizabet je proučila sva pravila koje nameće ARHiNET te sastavila dokument sa svim zahtjevima. Zajedno sa Elizabet, implementirali smo prvu verziju aplikacije. Rezultat naše suradnje je ArhiXML.
+Elizabet, za potrebe obavljanja svog posla, došla je na ideju da se napravi računalna aplikacija koja će olakšati unos arhive u digitalni oblik. Naravno, bez korištenja i plaćanja ARHiNET sustava. Ona je proučila sva pravila koje nameće ARHiNET te sastavila dokument sa svim zahtjevima i napisala XML datoteku. Zajedno smo implementirali prvu verziju aplikacije i dali je na korištenje. Rezultat naše suradnje je ArhiXML. ArhiXML je olakšao pravljenje XML datoteke koji se kopira na CD i šalje u arhiv. S tim su se postigle velike uštede za firme koje su obavezne popisivati arhivske građe i dostavljati popis u elektronskom obliku.
 
 ## Po čemu je ova aplikacija zanimljiva?
 
