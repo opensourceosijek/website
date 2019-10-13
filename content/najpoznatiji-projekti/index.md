@@ -82,6 +82,7 @@ Mail poslužitelji i groupware poslužitelji
 
   * ClamAV (AntiVirus), [http://www.clamav.net/][4]
   * Snort (IDS/IPS), <http://www.snort.org/>
+    * Snort Cheat Sheet, <https://www.comparitech.com/net-admin/snort-cheat-sheet/>
   * Suricata(IDS/IPS), <http://suricata-ids.org/> 
   * SquidGuard, <http://www.squidguard.org/>
   * KeePass Password Safe, <http://keepass.info/>
