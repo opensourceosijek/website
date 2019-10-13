@@ -3,6 +3,8 @@ title: Najpoznatiji Opensource projekti
 authors: hvarga
 type: page
 date: 2013-11-01T14:56:03+00:00
+menu: "main"
+weight: 5
 
 ---
 Predstavljamo vam listu najpopulanijih Open Source projekata (programa).
