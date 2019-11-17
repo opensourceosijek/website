@@ -73,3 +73,17 @@ Napomena: Knjiga je u ranoj fazi izrade.
 
 [Preuzmi knjigu u ODT formatu](kratka-prica-o-sustavima-otvorenog-koda.odt) \
 [Preuzmi knjigu u PDF formatu](kratka-prica-o-sustavima-otvorenog-koda.pdf)
+
+## Uvod u CEPH i konfiguracija kroz primjere
+
+U ovoj kratkoj knjižici upoznati ćete se s visoko distribuiranim redundantnim i
+visoko skalabilnim sustavom za pohranu podataka CEPH. Kratki video s
+prezentacijom rada ovog sustava u integraciji s platformaom za virtualizaciju
+Proxmox VE, možete vidjeti u našoj Facebook grupi [Open Source Osijek](https://www.facebook.com/groups/open.source.osijek/)
+
+Knjižica prati prezentacijski video ali i nastavlja s detaljima konfiguracije na
+Proxmox VE platformi verzije 3.4. Na novijim verzijama Proxmox VE sve je
+drastično jednostavnije ali nije loše za znati osnove i detalje rada samog CEPH
+sustava koje spo ovdje pokrili.
+
+[Preuzmi knjigu](CEPH-storage-uvod-i-konfiguracija.pdf)
