@@ -189,7 +189,7 @@ HTML/CSS Editori
 ## Multimedija
 
   * Banshee, <http://banshee.fm/>
-  * Subtitle Editor, <http://home.gna.org/subtitleeditor/>
+  * Subtitle Editor, <https://github.com/SubtitleEdit/subtitleedit>
 
 ### Audio Reprodukcija
 
@@ -200,7 +200,7 @@ HTML/CSS Editori
   * Clementine, <http://www.clementine-player.org/>
   * Mixxx, <http://www.mixxx.org/>
 
-### Video Reprodukcija i obrada
+### Video Reprodukcija i obrada video zapisa
 
   * VLC media player, <http://www.videolan.org/vlc>
   * SMPlayer, <http://smplayer.sourceforge.net/>
