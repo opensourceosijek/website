@@ -204,7 +204,9 @@ HTML/CSS Editori
 
   * VLC media player, <http://www.videolan.org/vlc>
   * SMPlayer, <http://smplayer.sourceforge.net/>
+  * Media Player Classic - Home Cinema, <https://github.com/clsid2/mpc-hc/releases>
   * OBS (Open Broadcaster Software), <https://obsproject.com/>
+  
 
 ### Media Centar
 
@@ -234,7 +236,7 @@ HTML/CSS Editori
   * Mozilla Thunderbird, <http://www.mozilla.org/thunderbird/>
   * PuTTY, <http://www.chiark.greenend.org.uk/~sgtatham/putty/>
   * Zenmap/nmap, <http://nmap.org/zenmap/>
-  * Xming, <http://www.straightrunning.com/XmingNotes/>
+  * Xming (X Server), <http://www.straightrunning.com/XmingNotes/>
 
 ## Internet
 
