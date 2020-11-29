@@ -200,10 +200,11 @@ HTML/CSS Editori
   * Clementine, <http://www.clementine-player.org/>
   * Mixxx, <http://www.mixxx.org/>
 
-### Video Reprodukcija
+### Video Reprodukcija i obrada
 
   * VLC media player, <http://www.videolan.org/vlc>
   * SMPlayer, <http://smplayer.sourceforge.net/>
+  * OBS (Open Broadcaster Software), <https://obsproject.com/>
 
 ### Media Centar
 
@@ -273,7 +274,7 @@ HTML/CSS Editori
 
 ## Virtualizacija
 
-  * Proxmox, <http://www.proxmox.com/>
+  * Proxmox VE, <http://www.proxmox.com/>
   * Linux kernel virtualizacija  (KVM), <http://www.linux-kvm.org/page/Main_Page>
   * VirtualBox, <https://www.virtualbox.org/>
 
