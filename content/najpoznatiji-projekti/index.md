@@ -298,7 +298,7 @@ HTML/CSS Editori
 
 ## Modeliranje i Simulacija
 
-  * Blender, <http://www.blender.org/>
+  * Blender (3D modeliranje i animacije), <http://www.blender.org/>
   * Scilab, <http://www.scilab.org/>
   * FreeMat, <http://freemat.sourceforge.net/>
   * KiCad, <http://www.kicad-pcb.org/display/KICAD/KiCad+EDA+Software+Suite>
