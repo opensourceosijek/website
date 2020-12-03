@@ -7,7 +7,7 @@ menu: "main"
 weight: 5
 
 ---
-Predstavljamo vam listu najpopulanijih Open Source projekata (programa).
+Predstavljamo vam listu najpopulanijih projekata (programa) otvorenog programskog koda (Open Source).
 
 &nbsp;
 
@@ -282,14 +282,15 @@ HTML/CSS Editori
 
 ## Video i Audio Obrada
 
-  * Audacity, <http://audacity.sourceforge.net/>
+  * Audacity (obrada zvuka), <https://www.audacityteam.org/>
+  * Fre:AC (Audio konverter), <https://www.freac.org/>
   * Ardour, <http://ardour.org/>
   * Avidemux, <http://avidemux.sourceforge.net/>
   * darktable, <http://www.darktable.org/>
   * LMMS, <http://lmms.sourceforge.net/>
   * VirtualDub, <http://www.virtualdub.org/>
   * FFmpeg, <http://www.ffmpeg.org/>
-  * HandBrake, <http://handbrake.fr/>
+  * HandBrake (obrada videa), <http://handbrake.fr/>
   * Rosegarden, <http://www.rosegardenmusic.com/>
   * MuseScore, <a href="http://musescore.org/" target="_blank" rel="noopener noreferrer">http://musescore.org/</a>
   * digiKam, <http://www.digikam.org/>
