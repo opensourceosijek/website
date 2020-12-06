@@ -37,7 +37,7 @@ sve dok dopuštaju drugima da čine isto kada dijele njihov posao.
 
 
 &nbsp;
-
+Pogledajte neke od najpoznatiji programa otvorenog programskog koda:
 &nbsp;
 
 
