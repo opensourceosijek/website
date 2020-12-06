@@ -34,8 +34,8 @@ Prema dizajnu odnosno ideji razvoja licenci za otvoreni kod, promiće se suradnj
 i da te promjene ugrade u svoje vlastite projekte. Potiču računalne programere da pristupe, pregledavaju i mijenjaju softver otvorenog koda kad god žele, 
 sve dok dopuštaju drugima da čine isto kada dijele njihov posao.
 
-
-
+&nbsp;
+&nbsp;
 &nbsp;
 Pogledajte neke od najpoznatiji programa otvorenog programskog koda:
 &nbsp;
