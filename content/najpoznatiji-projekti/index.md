@@ -8,6 +8,34 @@ weight: 5
 
 ---
 Predstavljamo vam listu najpopulanijih projekata (programa) otvorenog programskog koda (Open Source).
+Softver otvorenog koda (engleski: Open-source software) odnosi se na softver čiji je izvorni kod dostupan unutar
+"open source" licence svim korisnicima koji mogu mijenjati, prepravljati i poboljšavati njegov sadržaj. 
+To znači da uz 'open source' programe dolazi i čitav izvorni kod u nekom programskom jeziku, pa se može i mijenjati sam program. 
+Dakle programeri koji imaju pristup (ovom) izvornom kodu računalnog programa mogu ga poboljšati dodavanjem značajki ili 
+popravljanjem dijelova koji ne rade uvijek ispravno. 
+
+Naime neki softver ima izvorni kod koji samo osoba, tim ili organizacija koja ga je stvorila i ima ekskluzivnu kontrolu nad njim, može izmijeniti. 
+Ljudi ovu vrstu softvera nazivaju "vlasničkim" ili "zatvorenim" softverom (Engl. Poprietary ili closed source).
+U tom slučaju, samo izvorni autori vlasničkog softvera mogu legalno kopirati, pregledati i izmijeniti taj softver. 
+A da bi mogli koristiti ovakav softver, korisnici računala moraju se složiti (obično potpisivanjem licence prikazane prvi put kad pokrenu ovaj softver) 
+da neće raditi ništa sa softverom koji autori softvera nisu izričito dopustili. 
+Microsoft Office i Adobe Photoshop primjeri su vlasničkog softvera.
+
+Softver otvorenog koda je drugačiji. 
+Njegovi autori izvorni kod stavljaju na raspolaganje drugima koji bi ga htjeli pogledati, kopirati, učiti iz njega, mijenjati ga ili dijeliti. 
+LibreOffice i GNU Image Manipulation Program (GIMP) primjeri su softvera otvorenog koda.
+Licence otvorenog koda utječu na način na koji ljudi mogu koristiti, proučavati, mijenjati i distribuirati softver. 
+Općenito, licence otvorenog koda daju korisnicima računala dozvolu za korištenje softvera otvorenog koda u bilo koju svrhu koju žele.
+ Neke licence otvorenog koda; ono što neki nazivaju licencama „copyleft“, predviđaju da onaj tko izda modificirani program otvorenog koda mora 
+ uz njega objaviti i izvorni kod tog programa. Štoviše, neke licence otvorenog koda predviđaju da svatko tko promijeni i dijeli program s drugima 
+ mora dijeliti i izvorni kod tog programa bez naplate naknade za licencu.
+
+Prema dizajnu odnosno ideji razvoja licenci za otvoreni kod, promiće se suradnja i dijeljenje jer dopuštaju drugim ljudima da izvrše preinake izvornog koda 
+i da te promjene ugrade u svoje vlastite projekte. Potiču računalne programere da pristupe, pregledavaju i mijenjaju softver otvorenog koda kad god žele, 
+sve dok dopuštaju drugima da čine isto kada dijele njihov posao.
+
+
+
 
 &nbsp;
 
