@@ -14,7 +14,7 @@ To znači da uz 'open source' programe dolazi i čitav izvorni kod u nekom progr
 Dakle programeri koji imaju pristup (ovom) izvornom kodu računalnog programa mogu ga poboljšati dodavanjem značajki ili 
 popravljanjem dijelova koji ne rade uvijek ispravno. 
 
-Naime neki softver ima izvorni kod koji samo osoba, tim ili organizacija koja ga je stvorila i ima ekskluzivnu kontrolu nad njim, može izmijeniti. 
+Naime određeni softver ima izvorni kôd koji samo osoba, tim ili organizacija koja ga je stvorila i ima ekskluzivnu kontrolu nad njim, može izmijeniti. 
 Ljudi ovu vrstu softvera nazivaju "vlasničkim" ili "zatvorenim" softverom (Engl. Poprietary ili closed source).
 U tom slučaju, samo izvorni autori vlasničkog softvera mogu legalno kopirati, pregledati i izmijeniti taj softver. 
 A da bi mogli koristiti ovakav softver, korisnici računala moraju se složiti (obično potpisivanjem licence prikazane prvi put kad pokrenu ovaj softver) 
