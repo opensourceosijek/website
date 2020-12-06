@@ -40,7 +40,9 @@ sve dok dopuštaju drugima da čine isto kada dijele njihov posao.
 &nbsp;
 
 &nbsp;
+Pogledajmo najpoznatije programe otvorenog kôda.
 
+&nbsp;
 ## Operacijski Sustavi
 
 ### Distribucije Linuxa
