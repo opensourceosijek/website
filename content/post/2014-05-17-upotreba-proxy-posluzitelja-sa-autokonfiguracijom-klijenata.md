@@ -185,7 +185,7 @@ Desni klik na **Scope options** :odabrati:  **Configure Options**
 
 Sada idemo do kraja , do naše nove opcije **252**:
 
-<img class="alignnone size-medium wp-image-1442" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/DHCP-252-3.jpg?resize=270%2C300&#038;ssl=1" alt="DHCP-252-3" width="270" height="300" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/DHCP-252-3.jpg?resize=270%2C300&ssl=1 270w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/DHCP-252-3.jpg?w=408&ssl=1 408w" sizes="(max-width: 270px) 100vw, 270px" data-recalc-dims="1" />
+<img class="alignnone size-medium wp-image-1442" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-252-3.jpg?resize=270%2C300&#038;ssl=1" alt="DHCP-252-3" width="270" height="300" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-252-3.jpg?resize=270%2C300&ssl=1 270w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-252-3.jpg?w=408&ssl=1 408w" sizes="(max-width: 270px) 100vw, 270px" data-recalc-dims="1" />
 
 Uključimo ju i pod String value, moramo upisati URL do naše wpad.dat datoteke (koja treba biti u root direktoriju web poslužitelja) &#8211; za sada ćemo koristiti samo IP adresu.
 
@@ -223,7 +223,7 @@ Wireshark nam kaže da smo od našeg DHCP poslužitelja dobili slijedeće (filtr
 
 Prema tome, kao što sam i rekao, ništa od AutoDiscovery protokola za Proxy u ovom slučaju, ili u slučaju sa Standardnog Linux-a :
 
-<a href="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/DHCP-wire-2.jpg?ssl=1" data-rel="lightbox-7" title=""><img class="alignnone size-medium wp-image-1444" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/DHCP-wire-2.jpg?resize=300%2C202&#038;ssl=1" alt="DHCP-wire--2" width="300" height="202" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/DHCP-wire-2.jpg?resize=300%2C202&ssl=1 300w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/DHCP-wire-2.jpg?w=506&ssl=1 506w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a><span style="color: #000000;">(Slika: Linux : DHCP klijent)</span>
+<a href="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-2.jpg?ssl=1" data-rel="lightbox-7" title=""><img class="alignnone size-medium wp-image-1444" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-2.jpg?resize=300%2C202&#038;ssl=1" alt="DHCP-wire--2" width="300" height="202" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-2.jpg?resize=300%2C202&ssl=1 300w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-2.jpg?w=506&ssl=1 506w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a><span style="color: #000000;">(Slika: Linux : DHCP klijent)</span>
 
 &#8230; Uočite razliku (Windows i Linux DHCP klijenti).
 
@@ -257,7 +257,7 @@ Mrežnu karticu također konfiguriramo da koristi DHCP poslužitelj kao i prva m
 
 Nadalje treba nam Web preglednik koji je konfiguriran da koristi automatsku konfiguraciju proxy poslužitelja (naša opcija **C**):
 
-<a href="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/Proxy-opcija31.jpg?ssl=1" data-rel="lightbox-10" title=""><img class="alignnone size-medium wp-image-1448" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/Proxy-opcija31.jpg?resize=300%2C259&#038;ssl=1" alt="Proxy-opcija3" width="300" height="259" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/Proxy-opcija31.jpg?resize=300%2C259&ssl=1 300w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/Proxy-opcija31.jpg?w=338&ssl=1 338w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
+<a href="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija31.jpg?ssl=1" data-rel="lightbox-10" title=""><img class="alignnone size-medium wp-image-1448" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija31.jpg?resize=300%2C259&#038;ssl=1" alt="Proxy-opcija3" width="300" height="259" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija31.jpg?resize=300%2C259&ssl=1 300w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija31.jpg?w=338&ssl=1 338w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
 
 Na osnovu IP parametara koje je dobio od DHCP poslužitelja , slaže zahtjeve prema  DNS poslužitelju na slijedeći način:
 
@@ -317,7 +317,7 @@ Dakle pošto smo se odlučili za A record , dodajemo **wpad** pod Name i IP adre
 
 Dodajmo DNS **A** record : U “**Forward Lookup zones**”
 
-<a href="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/DNS-ForwardLookup-A-record.jpg?ssl=1" data-rel="lightbox-11" title=""><img class="alignnone size-medium wp-image-1449" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/DNS-ForwardLookup-A-record.jpg?resize=300%2C275&#038;ssl=1" alt="DNS-ForwardLookup-A-record" width="300" height="275" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/DNS-ForwardLookup-A-record.jpg?resize=300%2C275&ssl=1 300w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/DNS-ForwardLookup-A-record.jpg?w=348&ssl=1 348w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
+<a href="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-ForwardLookup-A-record.jpg?ssl=1" data-rel="lightbox-11" title=""><img class="alignnone size-medium wp-image-1449" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-ForwardLookup-A-record.jpg?resize=300%2C275&#038;ssl=1" alt="DNS-ForwardLookup-A-record" width="300" height="275" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-ForwardLookup-A-record.jpg?resize=300%2C275&ssl=1 300w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-ForwardLookup-A-record.jpg?w=348&ssl=1 348w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
 
 &#8230;i Add host.
 
@@ -363,7 +363,7 @@ Pošto je u mnogim mrežama sigurnost zapostavljena, te je moguća automatska re
 
 Poruka koju ćemo dobiti (na DNS poslužitelju) je :
 
-<a href="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/DNS-Security-Error.jpg?ssl=1" data-rel="lightbox-12" title=""><img class="alignnone size-medium wp-image-1450" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-Security-Error-270x300.jpg?resize=270%2C300&#038;ssl=1" alt="DNS-Security-Error" width="270" height="300" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/DNS-Security-Error.jpg?resize=270%2C300&ssl=1 270w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2014/05/DNS-Security-Error.jpg?w=405&ssl=1 405w" sizes="(max-width: 270px) 100vw, 270px" data-recalc-dims="1" /></a>
+<a href="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-Security-Error.jpg?ssl=1" data-rel="lightbox-12" title=""><img class="alignnone size-medium wp-image-1450" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-Security-Error-270x300.jpg?resize=270%2C300&#038;ssl=1" alt="DNS-Security-Error" width="270" height="300" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-Security-Error.jpg?resize=270%2C300&ssl=1 270w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-Security-Error.jpg?w=405&ssl=1 405w" sizes="(max-width: 270px) 100vw, 270px" data-recalc-dims="1" /></a>
 
 Da bismo to riješti isključiti ćemo tu listu a sigurnosni problem riješiti na način da se samo računala dodana u domenu mogu registrirati u DNS (i to samo da Admin Domene ima ta prava).
 
