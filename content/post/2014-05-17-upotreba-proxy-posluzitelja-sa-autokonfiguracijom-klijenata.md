@@ -89,7 +89,7 @@ Proxy poslužitelj je na portu: **8888**
 Logička shema naše (zamišljene) mreže  :
 
 
-<a href="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-basic-net.png?ssl=1" data-rel="lightbox-0" title=""><img class="alignnone size-medium wp-image-1458" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-basic-net.png?resize=244%2C300&#038;ssl=1" alt="Proxy-basic-net" width="244" height="300" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-basic-net.png?resize=244%2C300&ssl=1 244w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-basic-net.png?w=441&ssl=1 441w" sizes="(max-width: 244px) 100vw, 244px" data-recalc-dims="1" /></a>
+[Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-basic-net.png)
 
 &nbsp;
 
