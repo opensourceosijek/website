@@ -115,7 +115,7 @@ Kao što smo spomenuli na početku ovdje su vidljive opcije A, B i C (za konfigu
 
 **Opcija A** : Ručno konfiguriranje proxy servera.
 
-<a href="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija1.jpg?ssl=1" data-rel="lightbox-1" title=""><img class="alignnone size-medium wp-image-1436" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija1.jpg?resize=300%2C262&#038;ssl=1" alt="Proxy-opcija1" width="300" height="262" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija1.jpg?resize=300%2C262&ssl=1 300w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija1.jpg?w=343&ssl=1 343w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija1.jpg)
 
 &nbsp;
 
