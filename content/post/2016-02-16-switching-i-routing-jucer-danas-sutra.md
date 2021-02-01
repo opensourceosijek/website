@@ -57,7 +57,7 @@ Od običnih “desktop” (poput ove na slici):
 
 Do posebnih kategorija mrežnih kartica koje možemo nazvati “Serverskim” poput ove na slici dolje.
 
-<img class="alignnone size-full wp-image-2094" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Lan-server.jpg?resize=589%2C422&#038;ssl=1" alt="Lan-server" width="589" height="422" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Lan-server.jpg?w=589&ssl=1 589w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Lan-server.jpg?resize=150%2C107&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Lan-server.jpg?resize=300%2C215&ssl=1 300w" sizes="(max-width: 589px) 100vw, 589px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/Lan-server.jpg)
 
 Osim toga i “serverske” nisu sve iste, kao niti njihovi upravljački programi, pa i neke od njih možda nisu loše ali imaju dosta loše upravljačke programe. Neke odrađuju samo standardne stvari dok neke od jačih podržavaju cijeli niz dodatnih funkcionalnosti, kojima rasterećuju centralni procesor (CPU).
 
@@ -118,7 +118,8 @@ Malo smijeha:
 
 Proizvođač **A:**
 
-<img class="alignnone size-full wp-image-2284" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-Errors-example-03.jpg?resize=815%2C268&#038;ssl=1" alt="switch-errors-example-03" width="815" height="268" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-Errors-example-03.jpg?w=815&ssl=1 815w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-Errors-example-03.jpg?resize=150%2C49&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-Errors-example-03.jpg?resize=300%2C99&ssl=1 300w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-Errors-example-03.jpg?resize=768%2C253&ssl=1 768w" sizes="(max-width: 815px) 100vw, 815px" data-recalc-dims="1" />
+
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/Switch-Errors-example-03.jpg)
 
 Greška **Br.10** je primjerice super : nakon 30 do 200 restartanja uređaja, počinju se gubiti (ping)  paketi.
 
@@ -128,7 +129,7 @@ Ili **Br. 12**  kada se uključi DHCP Relay i Spanning Tree Protokol (STP) u is
 
 Proizvođač **B**:
 
-<img class="alignnone size-full wp-image-2285" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-Errors-example-02.jpg?resize=839%2C374&#038;ssl=1" alt="switch-errors-example-02" width="839" height="374" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-Errors-example-02.jpg?w=839&ssl=1 839w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-Errors-example-02.jpg?resize=150%2C67&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-Errors-example-02.jpg?resize=300%2C134&ssl=1 300w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-Errors-example-02.jpg?resize=768%2C342&ssl=1 768w" sizes="(max-width: 839px) 100vw, 839px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/Switch-Errors-example-02.jpg)
 
 Greška pod &#8220;**Forwarding Traffic**&#8221;  nakon nekog vremena switch na neke portove jednostavno više ne šalje nikakav mrežni promet (pakete).
 
@@ -136,7 +137,8 @@ Greška pod &#8220;**Forwarding Traffic**&#8221;  nakon nekog vremena switch na
 
 Proizvođač **C** :
 
-<img class="alignnone size-full wp-image-2286" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-Errors-example-01.jpg?resize=834%2C373&#038;ssl=1" alt="switch-errors-example-01" width="834" height="373" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-Errors-example-01.jpg?w=834&ssl=1 834w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-Errors-example-01.jpg?resize=150%2C67&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-Errors-example-01.jpg?resize=300%2C134&ssl=1 300w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-Errors-example-01.jpg?resize=768%2C343&ssl=1 768w" sizes="(max-width: 834px) 100vw, 834px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/Switch-Errors-example-01.jpg)
+
 
 Najbolja mi je greška **CR_0000128904** :  nasumično pojedini portovi na switchu ostanu u zablokiranom stanju te ne mogu niti primati niti slati pakete. Riješenje resetiranje switcha.
 
@@ -316,7 +318,8 @@ Ovdje je važnost u odabiru dobrog “Switching chip”-a krucijalna jer dobar d
 
 Prva varijanta : više manjih i slabijih “Switching” chipova, povezanih preko zajedničke sabirnice
 
-<img class="alignnone size-full wp-image-2095" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-1.jpg?resize=698%2C344&#038;ssl=1" alt="Switch-1" width="698" height="344" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-1.jpg?w=698&ssl=1 698w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-1.jpg?resize=150%2C74&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-1.jpg?resize=300%2C148&ssl=1 300w" sizes="(max-width: 698px) 100vw, 698px" data-recalc-dims="1" />
+
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/Switch-1.jpg)
 
 Ovakav dizajn koriste mnogi jer drastično snižava cijenu.
 
@@ -328,7 +331,8 @@ Druga varijanta je upotreba naprednijih switching chipova, koji podržavaju viš
 
 Ovo je model vidljiv na slici:
 
-<img class="alignnone size-full wp-image-2096" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-2.jpg?resize=698%2C339&#038;ssl=1" alt="Switch-2" width="698" height="339" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-2.jpg?w=698&ssl=1 698w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-2.jpg?resize=150%2C73&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-2.jpg?resize=300%2C146&ssl=1 300w" sizes="(max-width: 698px) 100vw, 698px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/Switch-2.jpg)
+
 
 Problem oba ova modela je još uvijek odabir prilično slabih switching chipova te prebacivanje previše toga na CPU (naravno preko iste sabirnice).
 
@@ -482,7 +486,8 @@ Osim toga jače verzije ASIC chipova imaju implementirane gotovo sve mrežne pro
 
 Pogledajmo fotografiju Cisco 3750G switcha (24 x 1Gbps + 4 x 1Gbps SFP)
 
-<img class="alignnone size-full wp-image-2116" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco-3750G.jpg?resize=1119%2C791&#038;ssl=1" alt="Cisco-3750G" width="1119" height="791" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco-3750G.jpg?w=1119&ssl=1 1119w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco-3750G.jpg?resize=150%2C106&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco-3750G.jpg?resize=300%2C212&ssl=1 300w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco-3750G.jpg?resize=768%2C543&ssl=1 768w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco-3750G.jpg?resize=1024%2C724&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/Cisco-3750G.jpg)
 
 Na slici gore je Cisco 3750G (switch sa 24 x 1Gbps + 4 x 1Gbps SFP) &#8211; vidljivo je da jedan ASIC+SRAM ( <span style="color: #ff0000;">set od tri chipa</span> ) odrađuje samo 4 x 1Gbps te je na njega spojen jedan PHY (<span style="color: #3366ff;">pripadajući chip gore</span>) koji je zadužen za ta četiri 1Gbps porta, koja završavaju na RJ-45 konektoru &#8211; pogledajte desnu stranu &#8211; i sve tako do 6-tog ASIC,SRAM i PHY.
 
@@ -492,11 +497,14 @@ SFP moduli se često nazivaju i &#8220;Transceiver&#8221;-i.
 
 Slika prikazuje optički SFP+modul (sa LC optičkim konektorom) tvtke &#8220;HP&#8221; (J9150A) i jedan SFP+ (isto optički 10Gbps, sa LC konektorom) , tvrtke Cisco (SFP-10G-SR):
 
- <img class="alignnone wp-image-2119" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco-SFP-10G-SR.jpg?resize=184%2C176&#038;ssl=1" alt="Cisco-SFP-10G-SR" width="184" height="176" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco-SFP-10G-SR.jpg?w=200&ssl=1 200w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco-SFP-10G-SR.jpg?resize=150%2C143&ssl=1 150w" sizes="(max-width: 184px) 100vw, 184px" data-recalc-dims="1" /><img class="alignnone wp-image-2120" src="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/HP-J9150A.jpg?resize=253%2C133&#038;ssl=1" alt="HP-J9150A" width="253" height="133" srcset="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/HP-J9150A.jpg?w=397&ssl=1 397w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/HP-J9150A.jpg?resize=150%2C79&ssl=1 150w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/HP-J9150A.jpg?resize=300%2C158&ssl=1 300w" sizes="(max-width: 253px) 100vw, 253px" data-recalc-dims="1" />
+
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/Cisco-SFP-10G-SR.jpg)
+
 
 Donja slika prikazuje Cisco 1000Base-T (1Gbps sa RJ-45):
 
-<img class="alignnone wp-image-2122" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco-SFP-1000Base-T.jpg?resize=206%2C202&#038;ssl=1" alt="Cisco-SFP-1000Base-T" width="206" height="202" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco-SFP-1000Base-T.jpg?w=467&ssl=1 467w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco-SFP-1000Base-T.jpg?resize=150%2C147&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco-SFP-1000Base-T.jpg?resize=300%2C295&ssl=1 300w" sizes="(max-width: 206px) 100vw, 206px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/Cisco-SFP-1000Base-T.jpg)
+
 
 &nbsp;
 
@@ -504,7 +512,8 @@ Donja slika prikazuje Cisco 1000Base-T (1Gbps sa RJ-45):
 
 Molim vas pogledajte malo bolje gornji desni dio gornje velike slike Cisco switcha Catalyst 3750 (zumirana slika &#8211; dolje).
 
-<img class="alignnone size-full wp-image-2114" src="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco-3750-lord-of-the-rings-1.jpg?resize=576%2C525&#038;ssl=1" alt="Cisco-3750-lord-of-the-rings" width="576" height="525" srcset="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco-3750-lord-of-the-rings-1.jpg?w=576&ssl=1 576w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco-3750-lord-of-the-rings-1.jpg?resize=150%2C137&ssl=1 150w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco-3750-lord-of-the-rings-1.jpg?resize=300%2C273&ssl=1 300w" sizes="(max-width: 576px) 100vw, 576px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/Cisco-3750-lord-of-the-rings-1.jpg)
+
 
 Radi se o tome da Cisco za svaku generaciju uređaja ima kodno ime a pošto je ovo bio prvi model koji je koristio &#8220;Stackwise&#8221; tehnologiju koja omogućava povezivanje do osam switcheva u prsten &#8211; prsten koji ih povezuje&#8230; kodno ime mu je bilo &#8220;_Lord of the Rings_&#8221;
 
@@ -518,7 +527,7 @@ _ &#8220;&#8230; One Ring to rule them all, One Ring to find them,_
 
 Kada već govorimo o ovoj mogućnosti povezivanja do osam Switcheva serije 3750 u prsten &#8211; to logički izgleda ovako:
 
-<img class="alignnone wp-image-2274" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco3750-Stack.jpg?resize=503%2C340&#038;ssl=1" alt="cisco3750-stack" width="503" height="340" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco3750-Stack.jpg?w=555&ssl=1 555w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco3750-Stack.jpg?resize=150%2C101&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Cisco3750-Stack.jpg?resize=300%2C203&ssl=1 300w" sizes="(max-width: 503px) 100vw, 503px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/Cisco3750-Stack.jpg)
 
 Kod ovakvog načina spajanja, preko posebnih &#8220;Stack&#8221; konekcija visoke propusnosti (32Gbps ili 64Gbps &#8211; ovisno o modelu) switchevi spojeni u prsten se počinju &#8220;ponašati&#8221; kao da se radi o jednom velikom switchu &#8211; sa strane konfiguracije i svih funkcionalnosti.
 
@@ -532,7 +541,8 @@ Dakle odjednom imamo &#8220;veliki&#8221; switch sa puno dostupnih portova. Ova 
 
 A sada pogledajmo i referentnu arhitekturu jedne novije generacije Cisco 3750G Multilayer switcha:
 
-<img class="alignnone size-full wp-image-2098" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-ASIC-1.jpg?resize=698%2C392&#038;ssl=1" alt="Switch-ASIC-1" width="698" height="392" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-ASIC-1.jpg?w=698&ssl=1 698w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-ASIC-1.jpg?resize=150%2C84&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-ASIC-1.jpg?resize=300%2C168&ssl=1 300w" sizes="(max-width: 698px) 100vw, 698px" data-recalc-dims="1" />
+
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/Switch-ASIC-1.jpg)
 
 Vidljivo je da ASIC ima **CAM** i **TCAM** dio kao i vrlo brzu **SRAM** memoriju za širu upotrebu unutar chipa te da je povezan sa “Switching chip”-om. Jedan ovakav **ASIC** podržava spajanje do 24x1Gbps **PHY** (Physical Layer) chipova koji su zaduženi za sam mrežni medij (interface).
 
@@ -566,7 +576,8 @@ Za ono što bi bio “Non blocking” dizajn minimalno isto toliko portova kolik
 
 Pogledajmo i ovakav dizajn (slika dolje).
 
-<img class="alignnone size-full wp-image-2099" src="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-ASIC-MESH.jpg?resize=698%2C547&#038;ssl=1" alt="Switch-ASIC-MESH" width="698" height="547" srcset="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-ASIC-MESH.jpg?w=698&ssl=1 698w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-ASIC-MESH.jpg?resize=150%2C118&ssl=1 150w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-ASIC-MESH.jpg?resize=300%2C235&ssl=1 300w" sizes="(max-width: 698px) 100vw, 698px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/Switch-ASIC-MESH.jpg)
+
 
 U svakom slučaju bilo koji dizajn koji uključuje ASIC chipove, omogućava postizanje vrlo velikih brzina procesiranja mrežnih paketa i to brzinama koje su neizvedive za standardne centralne procesore (CPU).
 
@@ -695,7 +706,9 @@ Dakle ako imamo switch sa 24 x 1Gbps, pošto uređaj na gigabitnoj brzini mora m
 
 Pogledajmo usporednu tablicu nekoliko modela i proizvođača switcheva, za 24 x 1Gbps switcheve, kako za Layer2 , tako i za Layer2/3/4 switcheve (donja granica bi morala biti 48Gbps):
 
-<img class="alignnone size-full wp-image-2100" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/SW-tablica-1.jpg?resize=703%2C528&#038;ssl=1" alt="SW-tablica-1" width="703" height="528" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/SW-tablica-1.jpg?w=703&ssl=1 703w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/SW-tablica-1.jpg?resize=150%2C113&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/SW-tablica-1.jpg?resize=300%2C225&ssl=1 300w" sizes="(max-width: 703px) 100vw, 703px" data-recalc-dims="1" />
+
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/SW-tablica-1.jpg)
+
 
 Oznaka Mpps = (Milijuna paketa u sekundi) označava broj paketa koji se mogu obraditi u jednoj sekundi a ovise o veličini paketa. Većina **ozbiljnih** proizvođača navodi najmanjepakete (64 byte-a), koji su i najzahtjevniji za obradu.
 
@@ -778,7 +791,8 @@ S<span style="color: #000000;">ve preko toga je nepotrebno osim:</span>
   *  <span style="color: #000000;">ako uređaj ima dodatnih SFP ili sličnih portova: svaki dodatni 1Gbps SFP  dodaje potrebu za povećanjem propusnosti od  1.488 Mpps  ili</span>
   * <span style="color: #000000;">ako se koristi i kao platforma za jače modele switcheva ,koji recimo ima dvostruko veći broj portova ili dodatne SFP ili SFP+ portove.</span>
 
-<img class="alignnone size-full wp-image-2270" src="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Propusnost-Switcheva.jpg?resize=694%2C548&#038;ssl=1" alt="propusnost-switcheva" width="694" height="548" srcset="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Propusnost-Switcheva.jpg?w=694&ssl=1 694w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Propusnost-Switcheva.jpg?resize=150%2C118&ssl=1 150w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Propusnost-Switcheva.jpg?resize=300%2C237&ssl=1 300w" sizes="(max-width: 694px) 100vw, 694px" data-recalc-dims="1" />
+
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/Propusnost-Switcheva.jpg)
 
 Što to znači za switcheve iz ove kategorije koji nisu u stanju isporučiti minimalno  **36Mpps** ?.
 
@@ -788,7 +802,9 @@ Switch koji je primjerice u mogućnosti isporučiti samo do 10Mpps, punom brzi
 
 I na kraju pogledajmo i cijene svih navedenih uređaja:
 
-<img class="alignnone size-full wp-image-2102" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/SW-tablica-3.jpg?resize=702%2C542&#038;ssl=1" alt="SW-tablica-3" width="702" height="542" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/SW-tablica-3.jpg?w=702&ssl=1 702w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/SW-tablica-3.jpg?resize=150%2C116&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/SW-tablica-3.jpg?resize=300%2C232&ssl=1 300w" sizes="(max-width: 702px) 100vw, 702px" data-recalc-dims="1" />
+
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/SW-tablica-3.jpg)
+
 
 Svi odabrani uređaji su odabrani na osnovi dostupnosti (u našim trgovinama) i stanja koje sam često zatekao u upotrebi. Točan odabir proizvođača i modela ne želim komentirati u ovom članku. Konačna preporuka i odabir bi bili ovisni o svim parametrima koje sam do sada naveo te o praktičnom iskustvu za točno određenog proizvođača, za točno određenu seriju i model (po nekada i za točno određenu verziju firmware-a).
 
@@ -886,7 +902,9 @@ Definitivno možemo reći da se sve više ide prema modelu u kojemu jedan ASIC i
 
 Prema ovom modelu referentni dizajn bi izgledao ovako (slika).
 
-<img class="alignnone size-full wp-image-2103" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-ASIC-10Gplus.jpg?resize=698%2C385&#038;ssl=1" alt="Switch-ASIC-10Gplus" width="698" height="385" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-ASIC-10Gplus.jpg?w=698&ssl=1 698w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-ASIC-10Gplus.jpg?resize=150%2C83&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Switch-ASIC-10Gplus.jpg?resize=300%2C165&ssl=1 300w" sizes="(max-width: 698px) 100vw, 698px" data-recalc-dims="1" />
+
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/Switch-ASIC-10Gplus.jpg)
+
 
 &nbsp;
 
