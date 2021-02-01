@@ -16,13 +16,6 @@ tags:
 
 &nbsp;
 
-[toc]
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 # Uvod
 
@@ -121,11 +114,11 @@ Kao što smo spomenuli na početku ovdje su vidljive opcije A, B i C (za konfigu
 
 **Opcija B :**Osim “ručnog rada”, moguće je konfigurirati web preglednike da to odrađuju pomoću konfiguracijske skripte.
 
-<a href="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija2.jpg?ssl=1" data-rel="lightbox-2" title=""><img class="alignnone size-medium wp-image-1437" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija2.jpg?resize=300%2C259&#038;ssl=1" alt="Proxy-opcija2" width="300" height="259" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija2.jpg?resize=300%2C259&ssl=1 300w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija2.jpg?w=344&ssl=1 344w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija2.jpg)
 
 **Opcija C:** Automatskim prepoznavanje proxy poslužitelja na mreži, uz korištenje iste konfiguracijske skripte:
 
-<img class="alignnone" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija3.jpg?resize=338%2C292&#038;ssl=1" alt="" width="338" height="292" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija3.jpg)
 
 ==> Mi ćemo koristiti upravo ovu metodu.
 
@@ -149,7 +142,7 @@ Dakle mrežne kartica mora biti konfigurirana da IP parametre mreže dobiva od D
 
 Primjer je konfiguracija mrežne kartice (IPv4 : TCP/IP) u Windows 7 :
 
-<a href="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Win7-TCP-IPconfig.jpg?ssl=1" data-rel="lightbox-3" title=""><img class="alignnone size-medium wp-image-1439" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Win7-TCP-IPconfig.jpg?resize=270%2C300&#038;ssl=1" alt="Win7-TCP-IPconfig" width="270" height="300" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Win7-TCP-IPconfig.jpg?resize=270%2C300&ssl=1 270w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Win7-TCP-IPconfig.jpg?w=408&ssl=1 408w" sizes="(max-width: 270px) 100vw, 270px" data-recalc-dims="1" /></a>
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Win7-TCP-IPconfig.jpg)
 
 Dakle procedura je standardna za DHCP protokol, s time da kao što smo rekli i DHCP klijent (u ovom slučaju ovo Windows 7 računalo) mora podržavati opciju 252 (što uglavnom nije slučaj za večinu Windows i Linux Operativnih sustava, “by default”).
 
@@ -157,11 +150,12 @@ Pokušajmo to ipak napraviti na strani DHCP poslužitelja, za one Operativne sus
 
 Pokrenimo DHCP poslužitelj , označimo naš poslužitelj (**server1**),  desni klik , **Set Predefined Options**  Sada trebamo dodati novu DHCP opciju : odaberimo: **Add**
 
-<a href="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-252-1.jpg?ssl=1" data-rel="lightbox-4" title=""><img class="alignnone size-medium wp-image-1440" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-252-1.jpg?resize=300%2C296&#038;ssl=1" alt="DHCP-252-1" width="300" height="296" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-252-1.jpg?resize=300%2C296&ssl=1 300w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-252-1.jpg?w=379&ssl=1 379w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-252-1.jpg)
+
 
 … i otvara nam se slijedeći prozor:
 
-<a href="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-252-2.jpg?ssl=1" data-rel="lightbox-5" title=""><img class="alignnone size-medium wp-image-1441" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-252-2.jpg?resize=300%2C173&#038;ssl=1" alt="DHCP-252-2" width="300" height="173" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-252-2.jpg?resize=300%2C173&ssl=1 300w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-252-2.jpg?w=369&ssl=1 369w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-252-2.jpg)
 
 Sada ćemo dodati DHCP opciju **252**
 
@@ -185,7 +179,7 @@ Desni klik na **Scope options** :odabrati:  **Configure Options**
 
 Sada idemo do kraja , do naše nove opcije **252**:
 
-<img class="alignnone size-medium wp-image-1442" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-252-3.jpg?resize=270%2C300&#038;ssl=1" alt="DHCP-252-3" width="270" height="300" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-252-3.jpg?resize=270%2C300&ssl=1 270w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-252-3.jpg?w=408&ssl=1 408w" sizes="(max-width: 270px) 100vw, 270px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-252-3.jpg)
 
 Uključimo ju i pod String value, moramo upisati URL do naše wpad.dat datoteke (koja treba biti u root direktoriju web poslužitelja) &#8211; za sada ćemo koristiti samo IP adresu.
 
@@ -217,13 +211,13 @@ Client ⇒ Server  : DHCP Release
 
 Wireshark nam kaže da smo od našeg DHCP poslužitelja dobili slijedeće (filtrirane su samo DHCP poruke i to dio poruke koji nam je zanimljiv tj. bitan za razumjevanje):
 
-<a href="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-1.jpg?ssl=1" data-rel="lightbox-6" title=""><img class="alignnone size-medium wp-image-1443" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-1.jpg?resize=300%2C213&#038;ssl=1" alt="DHCP-wire--1" width="600" height="413" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-1.jpg?resize=300%2C213&ssl=1 300w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-1.jpg?w=502&ssl=1 502w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a> (Slika : Windows DHCP klijent)
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-1.jpg)
 
 &nbsp;
 
 Prema tome, kao što sam i rekao, ništa od AutoDiscovery protokola za Proxy u ovom slučaju, ili u slučaju sa Standardnog Linux-a :
 
-<a href="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-2.jpg?ssl=1" data-rel="lightbox-7" title=""><img class="alignnone size-medium wp-image-1444" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-2.jpg?resize=300%2C202&#038;ssl=1" alt="DHCP-wire--2" width="600" height="402" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-2.jpg?resize=300%2C202&ssl=1 300w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-2.jpg?w=506&ssl=1 506w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a><span style="color: #000000;">(Slika: Linux : DHCP klijent)</span>
+![Slike](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-2.jpg)
 
 &#8230; Uočite razliku (Windows i Linux DHCP klijenti).
 
@@ -231,13 +225,13 @@ Prema tome, kao što sam i rekao, ništa od AutoDiscovery protokola za Proxy u o
 
 A sada pogledajmo što je zahtjevao (DHCP Request, opcija 55) Linux DHCP klijent:
 
-<a href="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-REQ-2-Win.jpg?ssl=1" data-rel="lightbox-8" title=""><img class="alignnone size-medium wp-image-1446" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-REQ-2-Win.jpg?resize=300%2C158&#038;ssl=1" alt="DHCP-wire-REQ--2-Win" width="600" height="320" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-REQ-2-Win.jpg?resize=300%2C158&ssl=1 300w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-REQ-2-Win.jpg?w=620&ssl=1 620w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-REQ-2-Win.jpg)
 
 &nbsp;
 
 I istovremeno što je zahtjevao Windows 7 DHCP klijent:
 
-<a href="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-REQ-2-Win.jpg?ssl=1" data-rel="lightbox-8" title=""><img class="alignnone size-medium wp-image-1446" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-REQ-2-Win.jpg?resize=300%2C158&#038;ssl=1" alt="DHCP-wire-REQ--2-Win" width="600" height="320" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-REQ-2-Win.jpg?resize=300%2C158&ssl=1 300w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-REQ-2-Win.jpg?w=620&ssl=1 620w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DHCP-wire-REQ-2-Win.jpg)
 
 &nbsp;
 
@@ -257,7 +251,8 @@ Mrežnu karticu također konfiguriramo da koristi DHCP poslužitelj kao i prva m
 
 Nadalje treba nam Web preglednik koji je konfiguriran da koristi automatsku konfiguraciju proxy poslužitelja (naša opcija **C**):
 
-<a href="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija3.jpg?ssl=1" data-rel="lightbox-10" title=""><img class="alignnone size-medium wp-image-1448" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija3.jpg?resize=300%2C259&#038;ssl=1" alt="Proxy-opcija3" width="600" height="500" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija3.jpg?resize=300%2C259&ssl=1 300w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija3.jpg?w=338&ssl=1 338w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/Proxy-opcija3.jpg)
+
 
 Na osnovu IP parametara koje je dobio od DHCP poslužitelja , slaže zahtjeve prema  DNS poslužitelju na slijedeći način:
 
@@ -317,7 +312,7 @@ Dakle pošto smo se odlučili za A record , dodajemo **wpad** pod Name i IP adre
 
 Dodajmo DNS **A** record : U “**Forward Lookup zones**”
 
-<a href="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-ForwardLookup-A-record.jpg?ssl=1" data-rel="lightbox-11" title=""><img class="alignnone size-medium wp-image-1449" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-ForwardLookup-A-record.jpg?resize=300%2C275&#038;ssl=1" alt="DNS-ForwardLookup-A-record" width="600" height="520" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-ForwardLookup-A-record.jpg?resize=300%2C275&ssl=1 300w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-ForwardLookup-A-record.jpg?w=348&ssl=1 348w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-ForwardLookup-A-record.jpg)
 
 &#8230;i Add host.
 
@@ -363,7 +358,8 @@ Pošto je u mnogim mrežama sigurnost zapostavljena, te je moguća automatska re
 
 Poruka koju ćemo dobiti (na DNS poslužitelju) je :
 
-<a href="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-Security-Error.jpg?ssl=1" data-rel="lightbox-12" title=""><img class="alignnone size-medium wp-image-1450" src="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-Security-Error-270x300.jpg?resize=270%2C300&#038;ssl=1" alt="DNS-Security-Error" width="490" height="600" srcset="https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-Security-Error.jpg?resize=270%2C300&ssl=1 270w, https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-Security-Error.jpg?w=405&ssl=1 405w" sizes="(max-width: 270px) 100vw, 270px" data-recalc-dims="1" /></a>
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2014/05/DNS-Security-Error.jpg)
+
 
 Da bismo to riješti isključiti ćemo tu listu a sigurnosni problem riješiti na način da se samo računala dodana u domenu mogu registrirati u DNS (i to samo da Admin Domene ima ta prava).
 
