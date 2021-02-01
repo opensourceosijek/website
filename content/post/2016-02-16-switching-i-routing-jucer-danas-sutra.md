@@ -53,7 +53,7 @@ A mrežnih kartica imamo svakakvih :
 
 Od običnih “desktop” (poput ove na slici):
 
-<img class="alignnone size-full wp-image-2093" src="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Lan-desktop.jpg?resize=509%2C405&#038;ssl=1" alt="Lan-desktop" width="509" height="405" srcset="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Lan-desktop.jpg?w=509&ssl=1 509w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Lan-desktop.jpg?resize=150%2C119&ssl=1 150w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2016/02/Lan-desktop.jpg?resize=300%2C239&ssl=1 300w" sizes="(max-width: 509px) 100vw, 509px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2016/02/Lan-desktop.jpg)
 
 Do posebnih kategorija mrežnih kartica koje možemo nazvati “Serverskim” poput ove na slici dolje.
 
