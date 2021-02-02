@@ -1231,7 +1231,8 @@ Naredba <span class="lang:default decode:true crayon-inline ">free</span> , daj
 
 <pre class="lang:default decode:true ">free -m</pre>
 
-<img class="alignnone wp-image-2724" src="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/free-m.gif?resize=741%2C76&#038;ssl=1" alt="" width="741" height="76" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/free-m.gif)
+
 
 Vidljivo je:
 
