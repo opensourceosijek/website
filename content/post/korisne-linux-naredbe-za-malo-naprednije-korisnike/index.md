@@ -826,7 +826,7 @@ Snimimo sve mrežne pakete koji su nam došli na mrežnu karticu **eth0**:
 
 <pre class="lang:default decode:true">tcpdump -i eth0</pre>
 
-Iz programa (u tijeku snimanja mrežnih paketa, izlazi se za <span class="lang:default decode:true crayon-inline ">CTRL</span>  + **<span class="lang:default decode:true crayon-inline ">c</span>
+Iz programa (u tijeku snimanja mrežnih paketa, izlazi se sa CTRL  +  c
   
 ** 
 
