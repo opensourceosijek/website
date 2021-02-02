@@ -18,7 +18,7 @@ U ovom članku, proći ćemo neke od korisnih Linux naredbi, za malo naprednije 
 
 <!--more-->
 
-Ako vas možda područja koja ćemo obraditi, zanimaju detaljnije ili se pak želite upoznati s osnovama,  sve to možete pronaći u mojoj online knjizi: [**Uvod u Linux i Linux napredno**](http://haw.nsk.hr/arhiva/vol2018/6736/70809/www.opensource-osijek.org/dokuwiki/_export/xhtml/wiki:knjige:uvod_u_linux.html), objavljenoj unutar inicijative [_**Open Source Osijek**_][2]. a koju možete slobodno koristiti za osobnu uporabu.
+Ako vas možda područja koja ćemo obraditi, zanimaju detaljnije ili se pak želite upoznati s osnovama,  sve to možete pronaći u mojoj online knjizi: [**Uvod u Linux i Linux napredno**](http://haw.nsk.hr/arhiva/vol2018/6736/70809/www.opensource-osijek.org/dokuwiki/_export/xhtml/wiki:knjige:uvod_u_linux.html), objavljenoj unutar inicijative [_**Open Source Osijek**_][2],a koju možete slobodno koristiti.
 
 &nbsp;
 
