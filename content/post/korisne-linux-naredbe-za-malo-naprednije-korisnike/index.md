@@ -631,7 +631,10 @@ Pronađimo tko sve ima otvoren mrežni port 22 (ssh):
 
 To bi izgledalo ovako nekako:
 
-<img class="alignnone size-full wp-image-2711" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsof-i-22.png?resize=1139%2C85&#038;ssl=1" alt="" width="1139" height="85" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsof-i-22.png?w=1139&ssl=1 1139w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsof-i-22.png?resize=150%2C11&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsof-i-22.png?resize=300%2C22&ssl=1 300w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsof-i-22.png?resize=768%2C57&ssl=1 768w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsof-i-22.png?resize=1024%2C76&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/lsof-i-22.png)
+
+
 
 Što je vidljivo:
 
@@ -692,7 +695,8 @@ Moguće je i poslati samo određeni broj paketa, u primjeru ćemo ih poslati sam
 
 Dobiti ćemo nešto poput ovoga:
 
-<img class="alignnone wp-image-2716" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ping-c-5.png?resize=662%2C201&#038;ssl=1" alt="" width="662" height="201" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ping-c-5.png?w=761&ssl=1 761w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ping-c-5.png?resize=150%2C46&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ping-c-5.png?resize=300%2C91&ssl=1 300w" sizes="(max-width: 662px) 100vw, 662px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/ping-c-5.png)
+
 
 Vidljivo je:
 
@@ -836,7 +840,9 @@ Pogledajmo i snimanje prometa za SSL/TLS (https):
 
 I kako to izgleda (prekinuli smo snimanje nakon par paketa):
 
-<img class="alignnone wp-image-2720" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/tcpdump-443.png?resize=1068%2C406&#038;ssl=1" alt="" width="1068" height="406" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/tcpdump-443.png?w=1262&ssl=1 1262w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/tcpdump-443.png?resize=150%2C57&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/tcpdump-443.png?resize=300%2C114&ssl=1 300w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/tcpdump-443.png?resize=768%2C292&ssl=1 768w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/tcpdump-443.png?resize=1024%2C389&ssl=1 1024w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/tcpdump-443.png?resize=1320%2C500&ssl=1 1320w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/tcpdump-443.png)
+
+
 
 &nbsp;
 
@@ -916,7 +922,9 @@ Gornji prikazuje generalno opterećenje sustava: CPU i RAM te opterečenje prema
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-2657" src="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/atop.png?resize=1265%2C964&#038;ssl=1" alt="" width="1265" height="964" srcset="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/atop.png?w=1265&ssl=1 1265w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/atop.png?resize=150%2C114&ssl=1 150w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/atop.png?resize=300%2C229&ssl=1 300w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/atop.png?resize=768%2C585&ssl=1 768w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/atop.png?resize=1024%2C780&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/atop.png)
+
 
 &nbsp;
 
@@ -956,7 +964,9 @@ Standardno, potrebno ga je samo pokrenuti:
 
 Pogledajmo kako to izgleda:
 
-<img class="alignnone wp-image-2659" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iotop.png?resize=797%2C573&#038;ssl=1" alt="" width="797" height="573" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iotop.png?w=903&ssl=1 903w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iotop.png?resize=150%2C108&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iotop.png?resize=300%2C216&ssl=1 300w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iotop.png?resize=768%2C552&ssl=1 768w" sizes="(max-width: 797px) 100vw, 797px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/iotop.png)
+
+
 
 Za svaki program/proces vidimo koliko operacija čitanja (DISK READ), zaipisivanja (DISK WRITE), swap &#8211; ako se koristi (SWAPIN) te koliki postotak procesorskog vremena se gubi na  I/O operacije prema diskovnom sustavu. Standardno su programi/procesi poredani prema postotku zauzeča CPUa s I/O operacijama.
 
@@ -1000,7 +1010,9 @@ Program <span class="lang:default decode:true crayon-inline ">cfdisk</span>  je
 
 Pogledajmo kako to izgleda:
 
-<img class="alignnone wp-image-2660" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/cfdisk.png?resize=824%2C493&#038;ssl=1" alt="" width="824" height="493" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/cfdisk.png?w=1654&ssl=1 1654w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/cfdisk.png?resize=150%2C90&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/cfdisk.png?resize=300%2C179&ssl=1 300w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/cfdisk.png?resize=768%2C459&ssl=1 768w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/cfdisk.png?resize=1024%2C612&ssl=1 1024w" sizes="(max-width: 824px) 100vw, 824px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/cfdisk.png)
+
+
 
 Za upute kako particionirati disk pogledajte knjigu **Uvod u Linux i Linux napredno**: Poglavlje: [Rad s particijama.][6]
 
@@ -1032,7 +1044,8 @@ Pogledajmo kako izgleda jedan ispis:
 
 Datotečni sustav   &#8212;- VELIČINA &#8212;&#8212;ISKORIŠTENO&#8212;&#8211;DOSTUPNO&#8212;U UPOTREBI&#8212;-MOUNT-ano kao
 
-<img class="alignnone size-full wp-image-2662" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/df.png?resize=640%2C162&#038;ssl=1" alt="" width="640" height="162" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/df.png?w=640&ssl=1 640w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/df.png?resize=150%2C38&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/df.png?resize=300%2C76&ssl=1 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/df.png)
+
 
 &nbsp;
 
@@ -1042,7 +1055,8 @@ Naredba <span class="lang:default decode:true crayon-inline">du  </span>(_disk 
 
 Pogledajmo kako to izgleda na našem računalu:
 
-<img class="alignnone wp-image-2663" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/du.png?resize=318%2C285&#038;ssl=1" alt="" width="318" height="285" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/du.png?w=486&ssl=1 486w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/du.png?resize=150%2C134&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/du.png?resize=300%2C269&ssl=1 300w" sizes="(max-width: 318px) 100vw, 318px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/du.png)
+
 
 Na kraju vidimo sumarizirano (zbroj), koji govori kako svi direktoriji i poddirektoriji (sve datoteke u njima) zajedno zauzimaju 69 MB.
 
@@ -1064,7 +1078,8 @@ Ispišimo što je sve mountano:
 
 Dobiti ćemo nešto poput:
 
-<img class="alignnone wp-image-2665" src="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/mount.png?resize=489%2C112&#038;ssl=1" alt="" width="489" height="112" srcset="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/mount.png?w=602&ssl=1 602w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/mount.png?resize=150%2C34&ssl=1 150w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/mount.png?resize=300%2C69&ssl=1 300w" sizes="(max-width: 489px) 100vw, 489px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/mount.png)
+
 
 Možemo sve zajedno lijepo formatirati:
 
@@ -1074,7 +1089,8 @@ Možemo sve zajedno lijepo formatirati:
 
 Pogledajmo kako sve sada izgleda:
 
-<img class="alignnone wp-image-2666" src="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/mount-column.png?resize=863%2C118&#038;ssl=1" alt="" width="863" height="118" srcset="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/mount-column.png?w=1184&ssl=1 1184w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/mount-column.png?resize=150%2C21&ssl=1 150w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/mount-column.png?resize=300%2C41&ssl=1 300w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/mount-column.png?resize=768%2C105&ssl=1 768w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/mount-column.png?resize=1024%2C140&ssl=1 1024w" sizes="(max-width: 863px) 100vw, 863px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/mount-column.png)
+
 
 Dakle vidimo koje particije (1 stupac), s kojim datotečnim sustavom (5 stupac) se mountaju u koji direktorij (3 stupac), i dodatno s kojim opcijama i ovlastima (6 stupac).
 
@@ -1100,11 +1116,14 @@ Naredbu možemo pozvati ovako:
 
 Pogledajmo ispis na VirtualBox virtualnom računalu s dva virtualna diska (**/dev/sda** i **/dev/sdb**) te jednim CD-ROM uređajem (**/dev/sr0**):
 
-<img class="alignnone wp-image-2670" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsscsi-vbox.png?resize=660%2C64&#038;ssl=1" alt="" width="660" height="64" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsscsi-vbox.png?w=742&ssl=1 742w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsscsi-vbox.png?resize=150%2C15&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsscsi-vbox.png?resize=300%2C29&ssl=1 300w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" />
+
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/lsscsi-vbox.png)
+
 
 Ili isti ispis na HP poslužitelju. SCSI ID: 0:0:0:0 predstavlja sami SCSI RAID kontroler (P410I), s jednim diskom u RAID1 polju (**/dev/sda**), jedinim RDX backup uređajem (**/dev/sdb**), CD/DVDROM uređajem (**/dev/sr0**) te iSCSI diskom koji se nalazi eksportiran preko mreže, na FreeBSD poslužitelju (**/dev/sdc**):
 
-<img class="alignnone wp-image-2671" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsscsi-HP.png?resize=657%2C104&#038;ssl=1" alt="" width="657" height="104" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsscsi-HP.png?w=746&ssl=1 746w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsscsi-HP.png?resize=150%2C24&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsscsi-HP.png?resize=300%2C47&ssl=1 300w" sizes="(max-width: 657px) 100vw, 657px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/lsscsi-HP.png)
+
 
 Još više detalja možemo dobiti ako ovu naredbu pozovemo s prekidačem <span class="lang:default decode:true crayon-inline ">-v</span>  .
 
@@ -1126,7 +1145,8 @@ Naredba <span class="lang:default decode:true crayon-inline ">lsblk </span> kor
   
 ** 
 
-<img class="alignnone wp-image-2674" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsblk.png?resize=698%2C188&#038;ssl=1" alt="" width="698" height="188" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsblk.png?w=768&ssl=1 768w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsblk.png?resize=150%2C40&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/lsblk.png?resize=300%2C81&ssl=1 300w" sizes="(max-width: 698px) 100vw, 698px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/lsblk.png)
+
 
 &nbsp;
 
@@ -1142,7 +1162,8 @@ Provjerimo status svih diskova (koristili smo prekidač <span class="lang:defaul
 
 Pogledajmo ispis ove naredbe:
 
-<img class="alignnone wp-image-2678" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iostat-1.png?resize=698%2C168&#038;ssl=1" alt="" width="698" height="168" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iostat-1.png?w=988&ssl=1 988w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iostat-1.png?resize=150%2C36&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iostat-1.png?resize=300%2C72&ssl=1 300w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iostat-1.png?resize=768%2C185&ssl=1 768w" sizes="(max-width: 698px) 100vw, 698px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/iostat-1.png)
+
 
 Što je ovdje vidljivo:
 
@@ -1157,7 +1178,9 @@ Pogledajmo ispis ove naredbe:
 
 Ako želimo još detaljniji ispis stanja prema diskovnom podsustavu, možemo dodati i prekidač <span class="lang:default decode:true crayon-inline ">-x</span>  , pa sada imamo:
 
-<img class="alignnone wp-image-2680" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iostat-mx.png?resize=918%2C147&#038;ssl=1" alt="" width="918" height="147" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iostat-mx.png?w=1463&ssl=1 1463w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iostat-mx.png?resize=150%2C24&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iostat-mx.png?resize=300%2C48&ssl=1 300w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iostat-mx.png?resize=768%2C123&ssl=1 768w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iostat-mx.png?resize=1024%2C164&ssl=1 1024w" sizes="(max-width: 918px) 100vw, 918px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/iostat-mx.png)
+
+
 
 Nećemo sve objašnjavati osim zadnjeg stupca <span class="lang:default decode:true crayon-inline ">%util</span> , koji govori koliko je opterečen CPU za **disk I/O** operacije na svakom pojedinom disku. Za više detalja pročitajte knjigu: **Uvod u Linux i Linux napredno**: Poglavlje: [Praćenje performansi I/O sustava][8].
 
@@ -1194,7 +1217,7 @@ Pokretanjem programa bez prekidača dobivamo sve dostupne informacije, ali može
 
 Pogledajmo kako to izgleda:
 
-<img class="alignnone wp-image-2723" src="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/dmidecode-t-bios.png?resize=554%2C571&#038;ssl=1" alt="" width="554" height="571" srcset="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/dmidecode-t-bios.png?w=756&ssl=1 756w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/dmidecode-t-bios.png?resize=146%2C150&ssl=1 146w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/dmidecode-t-bios.png?resize=291%2C300&ssl=1 291w" sizes="(max-width: 554px) 100vw, 554px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/dmidecode-t-bios.png)
 
 &nbsp;
 
@@ -1230,7 +1253,9 @@ Pokrenimo ga, na istom računalo kao i prethodnu naredbu:
 
 Dobiti ćemo ovakav ili sličan ispis:
 
-<img class="alignnone wp-image-2725" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/vmstat.png?resize=857%2C58&#038;ssl=1" alt="" width="857" height="58" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/vmstat.png?w=990&ssl=1 990w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/vmstat.png?resize=150%2C10&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/vmstat.png?resize=300%2C20&ssl=1 300w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/vmstat.png?resize=768%2C52&ssl=1 768w" sizes="(max-width: 857px) 100vw, 857px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/vmstat.png)
+
+
 
 Vidljivo je:
 
@@ -1263,7 +1288,8 @@ Pokrenimo ju:
 
 I pogledajmo što će nam dati:
 
-<img class="alignnone wp-image-2728" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/mpstat.png?resize=1000%2C49&#038;ssl=1" alt="" width="1000" height="49" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/mpstat.png?w=1061&ssl=1 1061w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/mpstat.png?resize=150%2C7&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/mpstat.png?resize=300%2C15&ssl=1 300w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/mpstat.png?resize=768%2C38&ssl=1 768w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/mpstat.png?resize=1024%2C50&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/mpstat.png)
+
 
 &nbsp;
 
@@ -1351,7 +1377,9 @@ Naredba <span class="lang:default decode:true crayon-inline ">dstat </span> kom
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-2730" src="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/dstat.png?resize=710%2C200&#038;ssl=1" alt="" width="710" height="200" srcset="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/dstat.png?w=710&ssl=1 710w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/dstat.png?resize=150%2C42&ssl=1 150w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/dstat.png?resize=300%2C85&ssl=1 300w" sizes="(max-width: 710px) 100vw, 710px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/dstat.png)
+
+
 
 Dakle vidimo sve statistike, koje bi nam dobro došle od svih navedenih programa, u jednoj tablici, koja se popunjava u realnom vremenu. Naime ovdje vidimo kategorija statiszika za :
 
