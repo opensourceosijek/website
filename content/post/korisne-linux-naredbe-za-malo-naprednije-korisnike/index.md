@@ -246,7 +246,9 @@ Pogledajmo i neke od primjera. Pogledajmo statistike za sva mrežna sučelja:
 
 Dobili bismo nešto poput ovoga:
 
-<img class="alignnone size-full wp-image-2694" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-i-1.png?resize=851%2C73&#038;ssl=1" alt="" width="851" height="73" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-i-1.png?w=851&ssl=1 851w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-i-1.png?resize=150%2C13&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-i-1.png?resize=300%2C26&ssl=1 300w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-i-1.png?resize=768%2C66&ssl=1 768w" sizes="(max-width: 851px) 100vw, 851px" data-recalc-dims="1" />
+
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/netstat-i-1.png)
+
 
 Opis:
 
@@ -263,7 +265,8 @@ Ako želimo više statističkih detalja, možemo koristiti i <span class="lang:d
 
 Na što bi dobili detaljnije statistike o poslanim i primljenim paketima kao i onima s greškom, poput ovoga na slici:
 
-<img class="alignnone wp-image-2686" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-s.png?resize=437%2C609&#038;ssl=1" alt="" width="437" height="609" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-s.png?w=530&ssl=1 530w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-s.png?resize=108%2C150&ssl=1 108w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-s.png?resize=215%2C300&ssl=1 215w" sizes="(max-width: 437px) 100vw, 437px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/netstat-s.png)
+
 
 &nbsp;
 
@@ -273,7 +276,8 @@ Ispišimo sve route (routing tablicu i _default gateway_), i to brojčano (<span
 
 Pri tome bi dobili nešto poput ovog ispisa:
 
-<img class="alignnone size-full wp-image-2695" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-rn-1.png?resize=791%2C90&#038;ssl=1" alt="" width="791" height="90" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-rn-1.png?w=791&ssl=1 791w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-rn-1.png?resize=150%2C17&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-rn-1.png?resize=300%2C34&ssl=1 300w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-rn-1.png?resize=768%2C87&ssl=1 768w" sizes="(max-width: 791px) 100vw, 791px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/netstat-rn-1.png)
+
 
 &nbsp;
 
@@ -283,7 +287,9 @@ Ispišimo pripadnost Multicast grupama, i to brojčano (<span class="lang:defaul
 
 Pogledajmo i kako to izgleda:
 
-<img class="alignnone size-full wp-image-2696" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-gn-1.png?resize=450%2C126&#038;ssl=1" alt="" width="450" height="126" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-gn-1.png?w=450&ssl=1 450w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-gn-1.png?resize=150%2C42&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-gn-1.png?resize=300%2C84&ssl=1 300w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/netstat-gn-1.png)
+
+
 
 Ovdje vidimo kako je _**multicast**_ IP adresa: 224.0.0.1 dodjeljena mrežnom sučelju **eth0**, koje je ovdje naše primarno mrežno sučelje. To znači kako je multicast aktivan jer je ovo multicast IP na koju moraju odgovoriti svi multicast uređaji (prema definiciji rada multicast mrežnih sučelja).
 
@@ -308,7 +314,8 @@ _
 
 Pogledajmo kako bi izgledao ispis gornje naredbe &#8211; ovaj testni poslužitelj ima samo par servisa/portova: **ssh**(22), **telnet**(23), **web**(80) i **bootp** (68):
 
-<img class="alignnone size-full wp-image-2689" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-tunaop.png?resize=1232%2C143&#038;ssl=1" alt="" width="1232" height="143" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-tunaop.png?w=1232&ssl=1 1232w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-tunaop.png?resize=150%2C17&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-tunaop.png?resize=300%2C35&ssl=1 300w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-tunaop.png?resize=768%2C89&ssl=1 768w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/netstat-tunaop.png?resize=1024%2C119&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/netstat-tunaop.png)
+
 
 Što ovdje vidimo:
 
@@ -335,7 +342,8 @@ Pogledajmo sve detaljne statistike (prema svim podvrstama paketa) &#8211; sličn
 
 Pogledajmo ispis:
 
-<img class="alignnone wp-image-2697" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/nstat-a.png?resize=516%2C629&#038;ssl=1" alt="" width="516" height="629" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/nstat-a.png?w=550&ssl=1 550w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/nstat-a.png?resize=123%2C150&ssl=1 123w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/nstat-a.png?resize=246%2C300&ssl=1 246w" sizes="(max-width: 516px) 100vw, 516px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/nstat-a.png)
+
 
 &nbsp;
 
