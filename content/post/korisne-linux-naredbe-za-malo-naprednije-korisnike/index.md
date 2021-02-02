@@ -357,7 +357,9 @@ Pogledajmo (izlistajmo sve konekcije):
 
 Dobiti ćemo samo aktivne veze (s gore navedenog testnog servera, na koji gotovo ništa osim SSH nije spojeno):
 
-<img class="alignnone size-full wp-image-2690" src="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ss.png?resize=1220%2C34&#038;ssl=1" alt="" width="1220" height="34" srcset="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ss.png?w=1220&ssl=1 1220w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ss.png?resize=150%2C4&ssl=1 150w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ss.png?resize=300%2C8&ssl=1 300w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ss.png?resize=768%2C21&ssl=1 768w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ss.png?resize=1024%2C29&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/ss.png)
+
 
 Pogledajmo stanja svih otvorenih mrežnih konekcija:
 
@@ -415,7 +417,8 @@ Pogledajmo informacije o hardveru mrežnog sučelja (kartice) <span class="lang:
 
 Pogledajmo ispis:
 
-<img class="alignnone wp-image-2699" src="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ethtool-i-eth0-2.png?resize=279%2C145&#038;ssl=1" alt="" width="279" height="145" srcset="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ethtool-i-eth0-2.png?w=384&ssl=1 384w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ethtool-i-eth0-2.png?resize=150%2C78&ssl=1 150w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ethtool-i-eth0-2.png?resize=300%2C156&ssl=1 300w" sizes="(max-width: 279px) 100vw, 279px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/ethtool-i-eth0-2.png)
+
 
 Vidljivo je:
 
@@ -425,7 +428,8 @@ Vidljivo je:
 
 Da je recimo driver pisan (razvijan) i kompiliran s podrškom za **NAPI**, to bi bili vidljivo kao na ovom <span class="lang:default decode:true crayon-inline ">e1000</span>  driveru, u polju version &#8211; verzija bi obično završavavala s  <span class="lang:default decode:true crayon-inline ">-NAPI</span>  (Pogledajte knjigu **&#8220;Uvod u Linux i Linux napredno&#8221;**: Poglavlje: [Interrupt moderation][3])
 
-<img class="alignnone size-full wp-image-2698" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ethtool-i-eth0.png?resize=290%2C160&#038;ssl=1" alt="" width="290" height="160" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ethtool-i-eth0.png?w=290&ssl=1 290w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ethtool-i-eth0.png?resize=150%2C83&ssl=1 150w" sizes="(max-width: 290px) 100vw, 290px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/ethtool-i-eth0.png)
+
 
 &nbsp;
 
@@ -435,7 +439,9 @@ S ovim programom također možemo vidjeti i statistike mrežnih paketa, na najni
 
 Pogledajmo kako izgledaju ove statistike (izrezali smo samo dio statistika):
 
-<img class="alignnone wp-image-2700" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ethtool-s-eth0.png?resize=260%2C571&#038;ssl=1" alt="" width="260" height="571" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ethtool-s-eth0.png?w=416&ssl=1 416w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ethtool-s-eth0.png?resize=68%2C150&ssl=1 68w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ethtool-s-eth0.png?resize=137%2C300&ssl=1 137w" sizes="(max-width: 260px) 100vw, 260px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/ethtool-s-eth0.png)
+
+
 
 &nbsp;
 
@@ -445,7 +451,9 @@ Sada ćemo vidjeti i koje sve hardverski akcelerirane funkcionalnosti (_offload_
 
 Pogledajmo što smo dobili:
 
-<img class="alignnone wp-image-2701" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ethtool-show-offload-eth0.png?resize=398%2C566&#038;ssl=1" alt="" width="398" height="566" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ethtool-show-offload-eth0.png?w=527&ssl=1 527w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ethtool-show-offload-eth0.png?resize=105%2C150&ssl=1 105w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ethtool-show-offload-eth0.png?resize=211%2C300&ssl=1 211w" sizes="(max-width: 398px) 100vw, 398px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/ethtool-show-offload-eth0.png)
+
+
 
 Dakle vidimo koje su akcelerirane funkcije, koje mrežna kartica ima, uključene **(ON)** odnosno koje su isključene **(OFF)** te koje se ne mogu promijeniti **[fixed].**
 
@@ -471,7 +479,9 @@ Program <span class="lang:default decode:true crayon-inline">ifstat</span> , po
 
 Pogledajmo kako to izgleda:
 
-<img class="alignnone wp-image-2703" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ifstat.png?resize=156%2C116&#038;ssl=1" alt="" width="156" height="116" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ifstat.png?w=184&ssl=1 184w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/ifstat.png?resize=150%2C112&ssl=1 150w" sizes="(max-width: 156px) 100vw, 156px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/ifstat.png)
+
+
 
 Iz programa se izlazi sa <span class="lang:default decode:true crayon-inline ">CTRL</span>  + <span class="lang:default decode:true crayon-inline ">c</span>
 
@@ -495,7 +505,9 @@ Pogledajmo kako pratiti promet na mrežnom sučelju **bond0 (agregacija/team/bon
 
 Pogledajmo kako to izgleda, u trenutku kada smo kopirali datoteku s računala 192.168.1.254 => (na) => 192.168.1.164:
 
-<img class="alignnone wp-image-2704" src="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iftop-i-bond0.png?resize=555%2C331&#038;ssl=1" alt="" width="555" height="331" srcset="https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iftop-i-bond0.png?w=882&ssl=1 882w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iftop-i-bond0.png?resize=150%2C89&ssl=1 150w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iftop-i-bond0.png?resize=300%2C179&ssl=1 300w, https://i0.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iftop-i-bond0.png?resize=768%2C458&ssl=1 768w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/iftop-i-bond0.png)
+
+
 
 Vidljivo je kako je vršna brzina bila 574Mbps &#8211; mjereno sa strane poslužitelja (192.168.1.254), pa je to njegovo slanje (TX) te kako je najniža brzina bila 220Mbps a onda je varijrala između 560Mbps i 562Mbps.
 
@@ -515,7 +527,8 @@ Program možemo pokrenuti s menijem:
 
 To izgleda ovako:
 
-<img class="alignnone size-full wp-image-2705" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iptraf-ng-1.png?resize=719%2C528&#038;ssl=1" alt="" width="719" height="528" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iptraf-ng-1.png?w=719&ssl=1 719w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iptraf-ng-1.png?resize=150%2C110&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iptraf-ng-1.png?resize=300%2C220&ssl=1 300w" sizes="(max-width: 719px) 100vw, 719px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/iptraf-ng-1.png)
+
 
 Ako odaberemo: IP traffic monitor, možemo odabrati mrežno sučelje : **eth0**, **eth1**, &#8230; koje već imamo i pratičme se osnovna statistika TCP/UDP
 
@@ -523,13 +536,16 @@ Ako odaberemo: IP traffic monitor, možemo odabrati mrežno sučelje : **eth0**,
 
 Ako odaberemo &#8220;**General Interface Statistic**&#8221; dobiti ćemo opću statistiku prometa, poput ove na slici:
 
-<img class="alignnone size-full wp-image-2706" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iptraf-ng-2.png?resize=1003%2C154&#038;ssl=1" alt="" width="1003" height="154" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iptraf-ng-2.png?w=1003&ssl=1 1003w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iptraf-ng-2.png?resize=150%2C23&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iptraf-ng-2.png?resize=300%2C46&ssl=1 300w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iptraf-ng-2.png?resize=768%2C118&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/iptraf-ng-2.png)
+
+
 
 U prethodni meni se izlazi sa **X**
 
 Ako pak odaberemo &#8220;**Detailed interface statistics**&#8221; te odaberemo željeno mrežno sučelje, dobiti ćemo malo detaljniju statistiku mrežnog prometa, poput ove na slici:
 
-<img class="alignnone size-full wp-image-2707" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iptraf-ng-3.png?resize=1001%2C526&#038;ssl=1" alt="" width="1001" height="526" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iptraf-ng-3.png?w=1001&ssl=1 1001w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iptraf-ng-3.png?resize=150%2C79&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iptraf-ng-3.png?resize=300%2C158&ssl=1 300w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iptraf-ng-3.png?resize=768%2C404&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/iptraf-ng-3.png)
+
 
 I na kraju imamo i konfiguraciju detalja, pod &#8220;**Configure**&#8221;
 
@@ -575,7 +591,8 @@ Na računalu A (poslužitelj), pokrećemo:
 
 Na strani koja je poslužitelj to inicijalno izgleda ovako:
 
-<img class="alignnone size-full wp-image-2708" src="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iperf-s.png?resize=421%2C86&#038;ssl=1" alt="" width="421" height="86" srcset="https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iperf-s.png?w=421&ssl=1 421w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iperf-s.png?resize=150%2C31&ssl=1 150w, https://i1.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iperf-s.png?resize=300%2C61&ssl=1 300w" sizes="(max-width: 421px) 100vw, 421px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/iperf-s.png)
+
 
 Na računalu B (klijent), pokrećemo:
 
@@ -583,7 +600,8 @@ Na računalu B (klijent), pokrećemo:
 
 Na klijentu to izgleda ovako:
 
-<img class="alignnone size-full wp-image-2709" src="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iperf-c.png?resize=852%2C149&#038;ssl=1" alt="" width="852" height="149" srcset="https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iperf-c.png?w=852&ssl=1 852w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iperf-c.png?resize=150%2C26&ssl=1 150w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iperf-c.png?resize=300%2C52&ssl=1 300w, https://i2.wp.com/www.opensource-osijek.org/wordpress/wp-content/uploads/2018/01/iperf-c.png?resize=768%2C134&ssl=1 768w" sizes="(max-width: 852px) 100vw, 852px" data-recalc-dims="1" />
+![Slika](https://raw.githubusercontent.com/opensourceosijek/website/master/content/wp-content/uploads/2018/01/iperf-c.png)
+
 
 Ovo je osnovni TCP test, iz kojega je vidljivo, kako je klijentska strana prema poslužiteljskoj generirala promet te smo dobili propusnost mrže od **938 Mbps**, koji je poslužitelj uredno zaprimio. Test je trajao 10 sekundi (što se može mijenjati). Ovaj program koristi samo CPU, RAM memoriju i mrežno sučelje, što je vrlo važno za što bolje generiranje i/ili primanje mrežnih paketa.
 
