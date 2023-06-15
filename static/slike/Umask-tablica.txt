@@ -3,9 +3,9 @@
 	Potpuna umask tablica
 
 
-+------+------------------+-----------+
-+Vrij. +  Prava           + Umask     +
-+------+------------------+-----------+
++------+------------------+--------------------+
++Vrij. + Za datoteke      + Za direktorije     +
++------+------------------+--------------------+
 000	   rw-rw-rw-	       rwxrwxrwx
 001	   rw-rw-rw-	       rwxrwxrw-
 002	   rw-rw-r–	           rwxrwxr-x
@@ -14,8 +14,8 @@
 005	   rw-rw–w-	           rwxrwx-w-
 006	   rw-rw—-	           rwxrwx–x
 007	   rw-rw—-	           rwxrwx—
-010	   rw-rw-rw-	       rwxrw-rwx
-011	   rw-rw-rw-	       rwxrw-rw-
+010	   rw-rw-rw-           rwxrw-rwx
+011	   rw-rw-rw-           rwxrw-rw-
 012	   rw-rw-r–	           rwxrw-r-x
 013	   rw-rw-r–	           rwxrw-r–
 014	   rw-rw–w-	           rwxrw–wx
@@ -65,8 +65,8 @@
 070	   rw—-rw-	           rwx—rwx
 071	   rw—-rw-	           rwx—rw-
 072	   rw—-r–	           rwx—r-x
-073	   rw—-r–	           rwx—r–
-074	   rw—–w-	           rwx—-wx
+073	   rw—-r–              rwx—r–
+074	   rw—–w-              rwx—-wx
 075	   rw—–w-	           rwx—-w-
 076	   rw——-	           rwx—–x
 077	   rw——-	           rwx——
@@ -78,8 +78,8 @@
 105	   rw-rw–w-	           rw-rwx-w-
 106	   rw-rw—-	           rw-rwx–x
 107	   rw-rw—-	           rw-rwx—
-110	   rw-rw-rw-	       rw-rw-rwx
-111	   rw-rw-rw-	       rw-rw-rw-
+110	   rw-rw-rw-           rw-rw-rwx
+111	   rw-rw-rw-           rw-rw-rw-
 112	   rw-rw-r–	           rw-rw-r-x
 113	   rw-rw-r–	           rw-rw-r–
 114	   rw-rw–w-	           rw-rw–wx
@@ -188,16 +188,16 @@
 263	   r—–r–	           r-x–xr–
 264	   r——w-	           r-x–x-wx
 265	   r——w-	           r-x–x-w-
-266	   r——–	               r-x–x–x
-267	   r——–	               r-x–x—
+266	   r——–                r-x–x–x
+267	   r——–                r-x–x—
 270	   r—–rw-	           r-x—rwx
 271	   r—–rw-	           r-x—rw-
 272	   r—–r–	           r-x—r-x
 273	   r—–r–	           r-x—r–
 274	   r——w-	           r-x—-wx
 275	   r——w-	           r-x—-w-
-276	   r——–	               r-x—–x
-277	   r——–	               r-x——
+276	   r——–                r-x—–x
+277	   r——–                r-x——
 300	   r–rw-rw-	           r–rwxrwx
 301	   r–rw-rw-	           r–rwxrw-
 302	   r–rw-r–	           r–rwxr-x
@@ -252,8 +252,8 @@
 363	   r—–r–	           r—-xr–
 364	   r——w-	           r—-x-wx
 365	   r——w-	           r—-x-w-
-366	   r——–	               r—-x–x
-367	   r——–	               r—-x—
+366	   r——–                r—-x–x
+367	   r——–                r—-x—
 370	   r—–rw-	           r—–rwx
 371	   r—–rw-	           r—–rw-
 372	   r—–r–	           r—–r-x
@@ -262,16 +262,16 @@
 375	   r——w-	           r——w-
 376	   r——–	               r——-x
 377	   r——–	               r——–
-400	   -w-rw-rw-	       -wxrwxrwx
-401	   -w-rw-rw-	       -wxrwxrw-
+400	   -w-rw-rw-           -wxrwxrwx
+401	   -w-rw-rw-           -wxrwxrw-
 402	   -w-rw-r–	           -wxrwxr-x
 403	   -w-rw-r–	           -wxrwxr–
 404	   -w-rw–w-	           -wxrwx-wx
 405	   -w-rw–w-	           -wxrwx-w-
 406	   -w-rw—-	           -wxrwx–x
 407	   -w-rw—-	           -wxrwx—
-410	   -w-rw-rw-	       -wxrw-rwx
-411	   -w-rw-rw-	       -wxrw-rw-
+410	   -w-rw-rw-           -wxrw-rwx
+411	   -w-rw-rw-           -wxrw-rw-
 412	   -w-rw-r–	           -wxrw-r-x
 413	   -w-rw-r–	           -wxrw-r–
 414	   -w-rw–w-	           -wxrw–wx
@@ -326,16 +326,16 @@
 475	   -w—–w-	           -wx—-w-
 476	   -w——-	           -wx—–x
 477	   -w——-	           -wx——
-500	   -w-rw-rw-	       -w-rwxrwx
-501	   -w-rw-rw-	       -w-rwxrw-
+500	   -w-rw-rw-           -w-rwxrwx
+501	   -w-rw-rw-           -w-rwxrw-
 502	   -w-rw-r–	           -w-rwxr-x
 503	   -w-rw-r–	           -w-rwxr–
 504	   -w-rw–w-	           -w-rwx-wx
 505	   -w-rw–w-	           -w-rwx-w-
 506	   -w-rw—-	           -w-rwx–x
 507	   -w-rw—-	           -w-rwx—
-510	   -w-rw-rw-	       -w-rw-rwx
-511	   -w-rw-rw-	       -w-rw-rw-
+510	   -w-rw-rw-           -w-rw-rwx
+511	   -w-rw-rw-           -w-rw-rw-
 512	   -w-rw-r–	           -w-rw-r-x
 513	   -w-rw-r–	           -w-rw-r–
 514	   -w-rw–w-	           -w-rw–wx
@@ -412,16 +412,16 @@
 623	   —r–r–	           –xr-xr–
 624	   —r—w-	           –xr-x-wx
 625	   —r—w-	           –xr-x-w-
-626	   —r—–	               –xr-x–x
-627	   —r—–	               –xr-x—
+626	   —r—–                –xr-x–x
+627	   —r—–                –xr-x—
 630	   —r–rw-	           –xr–rwx
 631	   —r–rw-	           –xr–rw-
 632	   —r–r–	           –xr–r-x
 633	   —r–r–	           –xr–r–
 634	   —r—w-	           –xr—wx
 635	   —r—w-	           –xr—w-
-636	   —r—–	               –xr—-x
-637	   —r—–	               –xr—–
+636	   —r—–                –xr—-x
+637	   —r—–                –xr—–
 640	   —-w-rw-	           –x-wxrwx
 641	   —-w-rw-	           –x-wxrw-
 642	   —-w-r–	           –x-wxr-x
@@ -440,8 +440,8 @@
 657	   —-w—-	           –x-w—-
 660	   ——rw-	           –x–xrwx
 661	   ——rw-	           –x–xrw-
-662	   ——r–	               –x–xr-x
-663	   ——r–	               –x–xr–
+662	   ——r–                –x–xr-x
+663	   ——r–                –x–xr–
 664	   ——-w-	           –x–x-wx
 665	   ——-w-	           –x–x-w-
 666	   ———	               –x–x–x
