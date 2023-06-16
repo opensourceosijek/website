@@ -4,7 +4,7 @@
 
 
 +------+--------------------+---------------------------+
-+Vrij. +		Za datoteke	+		Za direktorije		+
++Vrij. +	Za datoteke		+		Za direktorije		+
 +------+--------------------+---------------------------+
 000			rw-rw-rw-		rwxrwxrwx
 001			rw-rw-rw-		rwxrwxrw-
