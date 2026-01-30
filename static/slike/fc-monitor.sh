@@ -1,11 +1,14 @@
 #!/usr/bin/bash
 
+# FC SAN Traffic Monitor - host-specific multipath paths
+# Testirano na Proxmox VE 9.x
 
 INTERVAL=5
 WORD_SIZE=4   # FC word = 4 bytes
 
-declare -A TX_PREV RX_PREV STATE SPEED
+declare -A TX_PREV RX_PREV STATE SPEED H2HCIL
 
+# boja po opterećenju
 colorize() {
     local val=$1 max=$2
     local pct=$((val*100/max))
@@ -18,7 +21,7 @@ colorize() {
     fi
 }
 
-# inicijalno očitanje hostova (FC)
+# inicijalno očitanje hostova
 for h in /sys/class/fc_host/host*; do
     host=$(basename "$h")
     TX_PREV[$host]=$(cat "$h/statistics/tx_words" 2>/dev/null || echo 0)
@@ -26,6 +29,8 @@ for h in /sys/class/fc_host/host*; do
     STATE[$host]="[AO]"
     spd=$(cat "$h/speed" 2>/dev/null || echo 0)
     SPEED[$host]=${spd//[^0-9]/}
+    # hcil mapping za host
+    H2HCIL[$host]=$(basename $(readlink -f $h/device))  # ovo vraća npr. host1
 done
 
 tput civis
@@ -52,8 +57,10 @@ while true; do
         tx_delta=$((tx_now - tx_prev))
         rx_delta=$((rx_now - rx_prev))
 
-        tx_MB=$(awk -v d="$tx_delta" -v i="$INTERVAL" -v w="$WORD_SIZE" 'BEGIN { printf "%.2f", (d*w)/(i*1024*1024) }')
-        rx_MB=$(awk -v d="$rx_delta" -v i="$INTERVAL" -v w="$WORD_SIZE" 'BEGIN { printf "%.2f", (d*w)/(i*1024*1024) }')
+        tx_MB=$(awk -v d="$tx_delta" -v i="$INTERVAL" -v w="$WORD_SIZE" \
+                 'BEGIN { printf "%.2f", (d*w)/(i*1024*1024) }')
+        rx_MB=$(awk -v d="$rx_delta" -v i="$INTERVAL" -v w="$WORD_SIZE" \
+                 'BEGIN { printf "%.2f", (d*w)/(i*1024*1024) }')
 
         tx_Gbps=$(awk -v mb="$tx_MB" 'BEGIN { printf "%.2f", mb*8/1024 }')
         rx_Gbps=$(awk -v mb="$rx_MB" 'BEGIN { printf "%.2f", mb*8/1024 }')
@@ -73,16 +80,20 @@ while true; do
         TX_PREV[$host]=$tx_now
         RX_PREV[$host]=$rx_now
 
-        # Ispis multipath putanja
-        mpaths=$(multipath -ll 2>/dev/null)
-        # filtriraj samo linije koje počinju sa " |- " ili " `- " (putanje)
-        echo "$mpaths" | awk -v h="$host" '
-            /^data/ {print ""}
-            /^[[:space:]]*[\`|\|]-/ {
-                path=$0
-                state="[AO]"
-                if ($0 ~ /undef/) state="[ANO]"
-                print "        " path " " state
+        # --- multipath putanje po hostu ---
+        hcil_num=${host//host/}  # host1 -> 1
+        multipathd show paths 2>/dev/null | awk -v hc="$hcil_num" '
+            BEGIN { show=0 }
+            NR>1 {
+                if ($1 ~ /^[0-9]+:[0-9]+:[0-9]+:[0-9]+$/) {
+                    split($1,a,":")
+                    if (a[1]==hc) show=1
+                    else show=0
+                    # AO/ANO
+                    state="[AO]"
+                    if ($5=="undef") state="[ANO]"
+                    if (show) print "        "$0" "state
+                }
             }'
     done
 
