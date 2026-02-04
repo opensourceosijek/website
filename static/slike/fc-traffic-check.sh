@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 # ============================================================
-# FC SAN Traffic Monitor - Version 5
+# FC SAN Traffic Monitor - Version 6
 # Proxmox VE / Linux DM-Multipath + ALUA aware
 #
 # Prikazuje:
@@ -10,7 +10,9 @@
 #  - Multipath putanje po hostu
 #  - access_state (AO/ANO) iz sysfs
 #  - PRIO iz multipathd
-# ============================================================
+# 
+#  HH + ChatGPT
+# ====================================
 
 INTERVAL=5
 WORD_SIZE=4
