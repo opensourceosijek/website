@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 # ============================================================
-# FC SAN Traffic Monitor - Version 6
+# FC SAN Traffic Monitor - Version 7
 # Proxmox VE / Linux DM-Multipath + ALUA aware
 #
 # Prikazuje:
@@ -112,9 +112,11 @@ while true; do
     done
 
     echo
+    echo "---------------------------------------"
     echo "Legenda:"
     echo "[AO]  active / optimized"
     echo "[ANO] active / non-optimized"
-
+    echo "HOST= FC NIC ili FC NIC port"
+    echo "---------------------------------------"
     sleep "$INTERVAL"
 done
