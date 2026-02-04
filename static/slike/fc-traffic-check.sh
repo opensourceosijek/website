@@ -12,7 +12,7 @@
 #  - PRIO iz multipathd
 # 
 #  HH + ChatGPT
-# ====================================
+# ============================================================
 
 INTERVAL=5
 WORD_SIZE=4
@@ -24,9 +24,7 @@ trap 'echo; echo "Exit."; exit 0' INT TERM
 # ------------------------------------------------------------
 # učitaj multipath priority mapu
 load_prio_map() {
-
     PRIO_MAP=()
-
     while read -r dev prio; do
         PRIO_MAP["$dev"]="$prio"
     done < <(
@@ -40,20 +38,17 @@ for h in /sys/class/fc_host/host*; do
     host=$(basename "$h")
     TX_PREV[$host]=$(cat "$h/statistics/tx_words" 2>/dev/null || echo 0)
     RX_PREV[$host]=$(cat "$h/statistics/rx_words" 2>/dev/null || echo 0)
-
     spd=$(cat "$h/speed" 2>/dev/null || echo 0)
     SPEED[$host]=${spd//[^0-9]/}
 done
 
 # ------------------------------------------------------------
 while true; do
-
     load_prio_map
-
     printf "\033[H\033[J"
 
     echo "=================================================================================="
-    printf "%-8ž%-8s %-6s %22s %22s %10s\n" \
+    printf "%-8s %-6s %22s %22s %10s\n" \
            "HOST" "STATE" "TX (MB/s / Gbps)" "RX (MB/s / Gbps)" "LINK"
     echo "=================================================================================="
 
@@ -101,17 +96,13 @@ while true; do
                "$speed Gbps"
 
         for sd in "${paths[@]}"; do
-
             acc=$(cat /sys/block/$sd/device/access_state 2>/dev/null)
-
             case "$acc" in
                 active/optimized)     tag="[AO]" ;;
                 active/non-optimized) tag="[ANO]" ;;
                 *)                    tag="[--]" ;;
             esac
-
             prio="${PRIO_MAP[$sd]:--}"
-
             printf "        %-5s %-22s prio=%-4s %s\n" \
                    "$sd" "$acc" "$prio" "$tag"
         done
